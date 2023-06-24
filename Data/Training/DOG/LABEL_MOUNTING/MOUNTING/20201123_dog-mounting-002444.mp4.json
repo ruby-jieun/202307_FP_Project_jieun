@@ -1,0 +1,6565 @@
+{
+    "file_video": "20201123/dog-mounting-002444.mp4",
+    "metadata": {
+        "seq": 2444,
+        "species": "DOG",
+        "action": "마운팅하는 동작",
+        "location": "실내",
+        "height": 1920,
+        "width": 1080,
+        "duration": 24.166667,
+        "animal": {
+            "breed": "시추",
+            "gender": "MALE",
+            "age": 16,
+            "neuter": "Y"
+        },
+        "owner": {
+            "pain": "N",
+            "disease": "N",
+            "emotion": "행복/즐거움",
+            "situation": "먹을것, 장난감이 앞에 있을 때",
+            "animalCount": 1
+        },
+        "inspect": {
+            "action": "마운팅하는 동작",
+            "painDisease": "N",
+            "abnormalAction": "N",
+            "emotion": "행복/즐거움"
+        }
+    },
+    "annotations": [
+        {
+            "frame_number": 0,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/4de5fdfe-b49e-40ad-be49-a6feb3bfd146.jpg",
+            "timestamp": 0,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 346,
+                    "y": 855
+                },
+                "6": null,
+                "7": {
+                    "x": 363,
+                    "y": 925
+                },
+                "8": {
+                    "x": 342,
+                    "y": 961
+                },
+                "9": {
+                    "x": 368,
+                    "y": 970
+                },
+                "10": {
+                    "x": 424,
+                    "y": 909
+                },
+                "11": {
+                    "x": 453,
+                    "y": 927
+                },
+                "12": {
+                    "x": 418,
+                    "y": 931
+                },
+                "13": {
+                    "x": 459,
+                    "y": 969
+                },
+                "14": {
+                    "x": 473,
+                    "y": 846
+                },
+                "15": {
+                    "x": 461,
+                    "y": 765
+                }
+            },
+            "bounding_box": {
+                "x": 303,
+                "y": 759,
+                "width": 209,
+                "height": 236
+            }
+        },
+        {
+            "frame_number": 6,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/0c730564-01f1-42d4-8a90-c058fee40b10.jpg",
+            "timestamp": 200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 340,
+                    "y": 853
+                },
+                "6": null,
+                "7": {
+                    "x": 331,
+                    "y": 913
+                },
+                "8": {
+                    "x": 349,
+                    "y": 950
+                },
+                "9": {
+                    "x": 335,
+                    "y": 963
+                },
+                "10": {
+                    "x": 440,
+                    "y": 926
+                },
+                "11": {
+                    "x": 460,
+                    "y": 936
+                },
+                "12": {
+                    "x": 438,
+                    "y": 946
+                },
+                "13": {
+                    "x": 459,
+                    "y": 969
+                },
+                "14": {
+                    "x": 473,
+                    "y": 846
+                },
+                "15": {
+                    "x": 415,
+                    "y": 821
+                }
+            },
+            "bounding_box": {
+                "x": 303,
+                "y": 810,
+                "width": 192,
+                "height": 181
+            }
+        },
+        {
+            "frame_number": 12,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/d87e56fa-eedc-4056-be17-de2f5afde482.jpg",
+            "timestamp": 400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 369,
+                    "y": 844
+                },
+                "6": null,
+                "7": {
+                    "x": 337,
+                    "y": 864
+                },
+                "8": {
+                    "x": 379,
+                    "y": 938
+                },
+                "9": null,
+                "10": null,
+                "11": {
+                    "x": 418,
+                    "y": 959
+                },
+                "12": {
+                    "x": 453,
+                    "y": 967
+                },
+                "13": {
+                    "x": 423,
+                    "y": 990
+                },
+                "14": {
+                    "x": 476,
+                    "y": 885
+                },
+                "15": {
+                    "x": 416,
+                    "y": 852
+                }
+            },
+            "bounding_box": {
+                "x": 303,
+                "y": 810,
+                "width": 185,
+                "height": 196
+            }
+        },
+        {
+            "frame_number": 18,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/56d5ae46-b77c-4201-9723-48b6b88693f4.jpg",
+            "timestamp": 600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 434,
+                    "y": 931
+                },
+                "11": {
+                    "x": 388,
+                    "y": 949
+                },
+                "12": {
+                    "x": 431,
+                    "y": 974
+                },
+                "13": {
+                    "x": 401,
+                    "y": 989
+                },
+                "14": {
+                    "x": 434,
+                    "y": 878
+                },
+                "15": null
+            },
+            "bounding_box": {
+                "x": 339,
+                "y": 828,
+                "width": 116,
+                "height": 182
+            }
+        },
+        {
+            "frame_number": 24,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/afb148b4-885f-41d3-904c-f35d415edf4b.jpg",
+            "timestamp": 800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 419,
+                    "y": 845
+                },
+                "6": {
+                    "x": 421,
+                    "y": 885
+                },
+                "7": null,
+                "8": {
+                    "x": 423,
+                    "y": 905
+                },
+                "9": null,
+                "10": {
+                    "x": 394,
+                    "y": 931
+                },
+                "11": {
+                    "x": 339,
+                    "y": 914
+                },
+                "12": {
+                    "x": 379,
+                    "y": 969
+                },
+                "13": {
+                    "x": 336,
+                    "y": 946
+                },
+                "14": {
+                    "x": 347,
+                    "y": 856
+                },
+                "15": {
+                    "x": 384,
+                    "y": 815
+                }
+            },
+            "bounding_box": {
+                "x": 313,
+                "y": 803,
+                "width": 154,
+                "height": 185
+            }
+        },
+        {
+            "frame_number": 30,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/7e810582-acf9-4988-8d4e-74a05dccff2b.jpg",
+            "timestamp": 1000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 425,
+                    "y": 788
+                },
+                "6": {
+                    "x": 421,
+                    "y": 838
+                },
+                "7": null,
+                "8": {
+                    "x": 414,
+                    "y": 883
+                },
+                "9": {
+                    "x": 396,
+                    "y": 862
+                },
+                "10": {
+                    "x": 386,
+                    "y": 890
+                },
+                "11": {
+                    "x": 327,
+                    "y": 895
+                },
+                "12": {
+                    "x": 387,
+                    "y": 924
+                },
+                "13": {
+                    "x": 327,
+                    "y": 926
+                },
+                "14": {
+                    "x": 363,
+                    "y": 840
+                },
+                "15": {
+                    "x": 327,
+                    "y": 813
+                }
+            },
+            "bounding_box": {
+                "x": 317,
+                "y": 728,
+                "width": 175,
+                "height": 235
+            }
+        },
+        {
+            "frame_number": 36,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/06ca9047-9535-4a93-afbe-aa5123a9c734.jpg",
+            "timestamp": 1200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 439,
+                    "y": 766
+                },
+                "6": {
+                    "x": 446,
+                    "y": 823
+                },
+                "7": null,
+                "8": {
+                    "x": 443,
+                    "y": 864
+                },
+                "9": {
+                    "x": 415,
+                    "y": 865
+                },
+                "10": {
+                    "x": 397,
+                    "y": 894
+                },
+                "11": {
+                    "x": 355,
+                    "y": 871
+                },
+                "12": {
+                    "x": 377,
+                    "y": 924
+                },
+                "13": {
+                    "x": 333,
+                    "y": 894
+                },
+                "14": {
+                    "x": 377,
+                    "y": 833
+                },
+                "15": {
+                    "x": 409,
+                    "y": 809
+                }
+            },
+            "bounding_box": {
+                "x": 313,
+                "y": 728,
+                "width": 187,
+                "height": 217
+            }
+        },
+        {
+            "frame_number": 42,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/dd7acbe2-3c50-4e3e-9b33-e7bbe078ecd7.jpg",
+            "timestamp": 1400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 461,
+                    "y": 769
+                },
+                "6": {
+                    "x": 476,
+                    "y": 817
+                },
+                "7": null,
+                "8": {
+                    "x": 471,
+                    "y": 861
+                },
+                "9": null,
+                "10": {
+                    "x": 413,
+                    "y": 892
+                },
+                "11": {
+                    "x": 373,
+                    "y": 874
+                },
+                "12": {
+                    "x": 397,
+                    "y": 916
+                },
+                "13": {
+                    "x": 380,
+                    "y": 896
+                },
+                "14": {
+                    "x": 389,
+                    "y": 834
+                },
+                "15": {
+                    "x": 413,
+                    "y": 811
+                }
+            },
+            "bounding_box": {
+                "x": 356,
+                "y": 723,
+                "width": 149,
+                "height": 230
+            }
+        },
+        {
+            "frame_number": 48,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/a57abff8-8914-4b43-a9f1-f36455e05df5.jpg",
+            "timestamp": 1600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 463,
+                    "y": 761
+                },
+                "6": {
+                    "x": 485,
+                    "y": 804
+                },
+                "7": null,
+                "8": {
+                    "x": 482,
+                    "y": 847
+                },
+                "9": {
+                    "x": 447,
+                    "y": 844
+                },
+                "10": {
+                    "x": 425,
+                    "y": 862
+                },
+                "11": {
+                    "x": 378,
+                    "y": 860
+                },
+                "12": {
+                    "x": 414,
+                    "y": 892
+                },
+                "13": {
+                    "x": 375,
+                    "y": 892
+                },
+                "14": {
+                    "x": 387,
+                    "y": 805
+                },
+                "15": {
+                    "x": 431,
+                    "y": 772
+                }
+            },
+            "bounding_box": {
+                "x": 362,
+                "y": 710,
+                "width": 149,
+                "height": 206
+            }
+        },
+        {
+            "frame_number": 54,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/d770ebde-afa9-4eb5-a86b-c4e7e862648d.jpg",
+            "timestamp": 1800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 506,
+                    "y": 747
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": {
+                    "x": 469,
+                    "y": 835
+                },
+                "10": {
+                    "x": 450,
+                    "y": 852
+                },
+                "11": {
+                    "x": 415,
+                    "y": 840
+                },
+                "12": {
+                    "x": 431,
+                    "y": 879
+                },
+                "13": {
+                    "x": 400,
+                    "y": 862
+                },
+                "14": {
+                    "x": 424,
+                    "y": 789
+                },
+                "15": {
+                    "x": 470,
+                    "y": 786
+                }
+            },
+            "bounding_box": {
+                "x": 391,
+                "y": 698,
+                "width": 149,
+                "height": 203
+            }
+        },
+        {
+            "frame_number": 60,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/68251df2-e56c-417a-993b-58925b50df70.jpg",
+            "timestamp": 2000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 508,
+                    "y": 756
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 467,
+                    "y": 854
+                },
+                "11": {
+                    "x": 434,
+                    "y": 849
+                },
+                "12": {
+                    "x": 445,
+                    "y": 885
+                },
+                "13": {
+                    "x": 430,
+                    "y": 867
+                },
+                "14": {
+                    "x": 439,
+                    "y": 792
+                },
+                "15": {
+                    "x": 473,
+                    "y": 798
+                }
+            },
+            "bounding_box": {
+                "x": 419,
+                "y": 698,
+                "width": 134,
+                "height": 203
+            }
+        },
+        {
+            "frame_number": 66,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/b2eac87c-358e-4aaa-ab31-e048b21cd1ae.jpg",
+            "timestamp": 2200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 548,
+                    "y": 747
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": {
+                    "x": 541,
+                    "y": 832
+                },
+                "10": {
+                    "x": 492,
+                    "y": 845
+                },
+                "11": {
+                    "x": 445,
+                    "y": 839
+                },
+                "12": {
+                    "x": 473,
+                    "y": 877
+                },
+                "13": {
+                    "x": 442,
+                    "y": 866
+                },
+                "14": {
+                    "x": 469,
+                    "y": 789
+                },
+                "15": {
+                    "x": 486,
+                    "y": 742
+                }
+            },
+            "bounding_box": {
+                "x": 434,
+                "y": 698,
+                "width": 137,
+                "height": 203
+            }
+        },
+        {
+            "frame_number": 72,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/7e4f475b-6f5e-4fce-a810-7ed21b8f6b7c.jpg",
+            "timestamp": 2400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 540,
+                    "y": 758
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": {
+                    "x": 532,
+                    "y": 839
+                },
+                "10": {
+                    "x": 497,
+                    "y": 848
+                },
+                "11": {
+                    "x": 444,
+                    "y": 843
+                },
+                "12": {
+                    "x": 479,
+                    "y": 879
+                },
+                "13": {
+                    "x": 441,
+                    "y": 872
+                },
+                "14": {
+                    "x": 464,
+                    "y": 800
+                },
+                "15": {
+                    "x": 464,
+                    "y": 746
+                }
+            },
+            "bounding_box": {
+                "x": 434,
+                "y": 696,
+                "width": 150,
+                "height": 218
+            }
+        },
+        {
+            "frame_number": 78,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/82713b9e-ab4f-4f42-a953-4e4866e4e047.jpg",
+            "timestamp": 2600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 536,
+                    "y": 783
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": {
+                    "x": 520,
+                    "y": 864
+                },
+                "10": {
+                    "x": 484,
+                    "y": 883
+                },
+                "11": {
+                    "x": 429,
+                    "y": 870
+                },
+                "12": {
+                    "x": 474,
+                    "y": 909
+                },
+                "13": {
+                    "x": 429,
+                    "y": 897
+                },
+                "14": {
+                    "x": 448,
+                    "y": 823
+                },
+                "15": {
+                    "x": 490,
+                    "y": 818
+                }
+            },
+            "bounding_box": {
+                "x": 416,
+                "y": 740,
+                "width": 152,
+                "height": 195
+            }
+        },
+        {
+            "frame_number": 84,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/e5e3078e-a653-458a-b2a6-f13dff29fe8c.jpg",
+            "timestamp": 2800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 523,
+                    "y": 760
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": {
+                    "x": 503,
+                    "y": 846
+                },
+                "10": {
+                    "x": 478,
+                    "y": 862
+                },
+                "11": {
+                    "x": 423,
+                    "y": 850
+                },
+                "12": {
+                    "x": 463,
+                    "y": 893
+                },
+                "13": {
+                    "x": 416,
+                    "y": 882
+                },
+                "14": {
+                    "x": 455,
+                    "y": 804
+                },
+                "15": {
+                    "x": 492,
+                    "y": 785
+                }
+            },
+            "bounding_box": {
+                "x": 402,
+                "y": 692,
+                "width": 149,
+                "height": 221
+            }
+        },
+        {
+            "frame_number": 90,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/0a2d5252-9b64-4f41-96cc-06d4dc7cc511.jpg",
+            "timestamp": 3000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 512,
+                    "y": 774
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": {
+                    "x": 495,
+                    "y": 850
+                },
+                "10": {
+                    "x": 460,
+                    "y": 877
+                },
+                "11": {
+                    "x": 423,
+                    "y": 860
+                },
+                "12": {
+                    "x": 442,
+                    "y": 902
+                },
+                "13": {
+                    "x": 420,
+                    "y": 884
+                },
+                "14": {
+                    "x": 426,
+                    "y": 812
+                },
+                "15": {
+                    "x": 464,
+                    "y": 778
+                }
+            },
+            "bounding_box": {
+                "x": 407,
+                "y": 705,
+                "width": 126,
+                "height": 218
+            }
+        },
+        {
+            "frame_number": 96,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/420567b5-a81d-4e7a-adc8-0bb57c268fa0.jpg",
+            "timestamp": 3200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 536,
+                    "y": 743
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": {
+                    "x": 515,
+                    "y": 830
+                },
+                "10": {
+                    "x": 481,
+                    "y": 839
+                },
+                "11": {
+                    "x": 445,
+                    "y": 834
+                },
+                "12": {
+                    "x": 457,
+                    "y": 878
+                },
+                "13": {
+                    "x": 441,
+                    "y": 862
+                },
+                "14": {
+                    "x": 448,
+                    "y": 785
+                },
+                "15": {
+                    "x": 430,
+                    "y": 772
+                }
+            },
+            "bounding_box": {
+                "x": 418,
+                "y": 705,
+                "width": 140,
+                "height": 200
+            }
+        },
+        {
+            "frame_number": 102,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/a59f3851-e5fe-4ed2-9d3a-56cac6aca94a.jpg",
+            "timestamp": 3400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 558,
+                    "y": 736
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": {
+                    "x": 531,
+                    "y": 826
+                },
+                "10": {
+                    "x": 517,
+                    "y": 820
+                },
+                "11": {
+                    "x": 464,
+                    "y": 824
+                },
+                "12": {
+                    "x": 504,
+                    "y": 853
+                },
+                "13": {
+                    "x": 464,
+                    "y": 851
+                },
+                "14": {
+                    "x": 472,
+                    "y": 775
+                },
+                "15": {
+                    "x": 497,
+                    "y": 749
+                }
+            },
+            "bounding_box": {
+                "x": 436,
+                "y": 705,
+                "width": 147,
+                "height": 176
+            }
+        },
+        {
+            "frame_number": 108,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/63950e58-c241-40c5-926c-45b2cbff4600.jpg",
+            "timestamp": 3600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 587,
+                    "y": 734
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 555,
+                    "y": 834
+                },
+                "11": {
+                    "x": 500,
+                    "y": 835
+                },
+                "12": {
+                    "x": 554,
+                    "y": 870
+                },
+                "13": {
+                    "x": 495,
+                    "y": 863
+                },
+                "14": {
+                    "x": 519,
+                    "y": 794
+                },
+                "15": {
+                    "x": 509,
+                    "y": 739
+                }
+            },
+            "bounding_box": {
+                "x": 487,
+                "y": 688,
+                "width": 122,
+                "height": 206
+            }
+        },
+        {
+            "frame_number": 114,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/6bae6d49-aff7-409f-97fd-b357fb48e9be.jpg",
+            "timestamp": 3800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 597,
+                    "y": 714
+                },
+                "6": {
+                    "x": 624,
+                    "y": 745
+                },
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 593,
+                    "y": 822
+                },
+                "11": {
+                    "x": 539,
+                    "y": 810
+                },
+                "12": {
+                    "x": 590,
+                    "y": 860
+                },
+                "13": {
+                    "x": 532,
+                    "y": 847
+                },
+                "14": {
+                    "x": 562,
+                    "y": 769
+                },
+                "15": {
+                    "x": 554,
+                    "y": 724
+                }
+            },
+            "bounding_box": {
+                "x": 524,
+                "y": 675,
+                "width": 105,
+                "height": 211
+            }
+        },
+        {
+            "frame_number": 120,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/2ad32713-8694-4fb0-9f6f-1c6b478ce911.jpg",
+            "timestamp": 4000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 625,
+                    "y": 718
+                },
+                "6": {
+                    "x": 653,
+                    "y": 765
+                },
+                "7": null,
+                "8": {
+                    "x": 646,
+                    "y": 812
+                },
+                "9": null,
+                "10": {
+                    "x": 631,
+                    "y": 838
+                },
+                "11": {
+                    "x": 573,
+                    "y": 824
+                },
+                "12": {
+                    "x": 624,
+                    "y": 874
+                },
+                "13": {
+                    "x": 573,
+                    "y": 858
+                },
+                "14": {
+                    "x": 605,
+                    "y": 786
+                },
+                "15": {
+                    "x": 585,
+                    "y": 765
+                }
+            },
+            "bounding_box": {
+                "x": 561,
+                "y": 684,
+                "width": 98,
+                "height": 215
+            }
+        },
+        {
+            "frame_number": 126,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/f51373eb-daf3-4254-99a5-bbd95b28bdfc.jpg",
+            "timestamp": 4200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 659,
+                    "y": 706
+                },
+                "6": {
+                    "x": 689,
+                    "y": 743
+                },
+                "7": null,
+                "8": {
+                    "x": 683,
+                    "y": 798
+                },
+                "9": null,
+                "10": {
+                    "x": 667,
+                    "y": 820
+                },
+                "11": {
+                    "x": 609,
+                    "y": 816
+                },
+                "12": {
+                    "x": 663,
+                    "y": 862
+                },
+                "13": {
+                    "x": 605,
+                    "y": 850
+                },
+                "14": {
+                    "x": 634,
+                    "y": 771
+                },
+                "15": {
+                    "x": 607,
+                    "y": 765
+                }
+            },
+            "bounding_box": {
+                "x": 596,
+                "y": 662,
+                "width": 103,
+                "height": 229
+            }
+        },
+        {
+            "frame_number": 132,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/bdca37af-90d5-44a0-a60c-1aba8b045e9e.jpg",
+            "timestamp": 4400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 723,
+                    "y": 713
+                },
+                "6": {
+                    "x": 754,
+                    "y": 759
+                },
+                "7": null,
+                "8": {
+                    "x": 746,
+                    "y": 817
+                },
+                "9": null,
+                "10": {
+                    "x": 727,
+                    "y": 836
+                },
+                "11": {
+                    "x": 664,
+                    "y": 838
+                },
+                "12": {
+                    "x": 723,
+                    "y": 888
+                },
+                "13": {
+                    "x": 662,
+                    "y": 871
+                },
+                "14": {
+                    "x": 690,
+                    "y": 786
+                },
+                "15": {
+                    "x": 668,
+                    "y": 772
+                }
+            },
+            "bounding_box": {
+                "x": 650,
+                "y": 666,
+                "width": 113,
+                "height": 252
+            }
+        },
+        {
+            "frame_number": 138,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/574261a1-4325-48f3-8b44-cc05d6dfb0ed.jpg",
+            "timestamp": 4600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 705,
+                    "y": 660
+                },
+                "6": {
+                    "x": 733,
+                    "y": 705
+                },
+                "7": null,
+                "8": {
+                    "x": 729,
+                    "y": 779
+                },
+                "9": null,
+                "10": {
+                    "x": 705,
+                    "y": 796
+                },
+                "11": {
+                    "x": 641,
+                    "y": 792
+                },
+                "12": {
+                    "x": 699,
+                    "y": 846
+                },
+                "13": {
+                    "x": 639,
+                    "y": 832
+                },
+                "14": {
+                    "x": 665,
+                    "y": 735
+                },
+                "15": {
+                    "x": 645,
+                    "y": 724
+                }
+            },
+            "bounding_box": {
+                "x": 630,
+                "y": 610,
+                "width": 114,
+                "height": 265
+            }
+        },
+        {
+            "frame_number": 144,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/bda680dc-f160-4d75-a57f-2091c0ddde88.jpg",
+            "timestamp": 4800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 607,
+                    "y": 709
+                },
+                "6": {
+                    "x": 635,
+                    "y": 762
+                },
+                "7": null,
+                "8": {
+                    "x": 633,
+                    "y": 817
+                },
+                "9": null,
+                "10": {
+                    "x": 603,
+                    "y": 847
+                },
+                "11": {
+                    "x": 547,
+                    "y": 826
+                },
+                "12": {
+                    "x": 607,
+                    "y": 892
+                },
+                "13": {
+                    "x": 545,
+                    "y": 875
+                },
+                "14": {
+                    "x": 572,
+                    "y": 782
+                },
+                "15": {
+                    "x": 553,
+                    "y": 769
+                }
+            },
+            "bounding_box": {
+                "x": 531,
+                "y": 649,
+                "width": 120,
+                "height": 273
+            }
+        },
+        {
+            "frame_number": 150,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/9f7958af-cb6f-4f11-a859-b1d1b006ed1b.jpg",
+            "timestamp": 5000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 527,
+                    "y": 733
+                },
+                "6": {
+                    "x": 563,
+                    "y": 799
+                },
+                "7": null,
+                "8": {
+                    "x": 557,
+                    "y": 850
+                },
+                "9": null,
+                "10": {
+                    "x": 550,
+                    "y": 866
+                },
+                "11": {
+                    "x": 480,
+                    "y": 861
+                },
+                "12": {
+                    "x": 538,
+                    "y": 916
+                },
+                "13": {
+                    "x": 478,
+                    "y": 901
+                },
+                "14": {
+                    "x": 505,
+                    "y": 814
+                },
+                "15": {
+                    "x": 481,
+                    "y": 788
+                }
+            },
+            "bounding_box": {
+                "x": 465,
+                "y": 668,
+                "width": 117,
+                "height": 283
+            }
+        },
+        {
+            "frame_number": 156,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/77457894-df73-411b-9ab4-f450d78ed56a.jpg",
+            "timestamp": 5200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 478,
+                    "y": 734
+                },
+                "6": {
+                    "x": 515,
+                    "y": 791
+                },
+                "7": null,
+                "8": {
+                    "x": 512,
+                    "y": 851
+                },
+                "9": null,
+                "10": {
+                    "x": 497,
+                    "y": 884
+                },
+                "11": {
+                    "x": 432,
+                    "y": 874
+                },
+                "12": {
+                    "x": 499,
+                    "y": 935
+                },
+                "13": {
+                    "x": 432,
+                    "y": 919
+                },
+                "14": {
+                    "x": 464,
+                    "y": 819
+                },
+                "15": {
+                    "x": 441,
+                    "y": 799
+                }
+            },
+            "bounding_box": {
+                "x": 422,
+                "y": 668,
+                "width": 110,
+                "height": 290
+            }
+        },
+        {
+            "frame_number": 162,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/69c7b6bf-141f-4dc1-b314-f32e2cf70339.jpg",
+            "timestamp": 5400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 473,
+                    "y": 734
+                },
+                "6": {
+                    "x": 506,
+                    "y": 790
+                },
+                "7": null,
+                "8": {
+                    "x": 508,
+                    "y": 851
+                },
+                "9": null,
+                "10": {
+                    "x": 497,
+                    "y": 898
+                },
+                "11": {
+                    "x": 425,
+                    "y": 885
+                },
+                "12": {
+                    "x": 491,
+                    "y": 935
+                },
+                "13": {
+                    "x": 425,
+                    "y": 919
+                },
+                "14": {
+                    "x": 458,
+                    "y": 837
+                },
+                "15": {
+                    "x": 437,
+                    "y": 807
+                }
+            },
+            "bounding_box": {
+                "x": 414,
+                "y": 674,
+                "width": 110,
+                "height": 296
+            }
+        },
+        {
+            "frame_number": 168,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/ee961c7c-5a6a-400a-a15b-887fb90c6270.jpg",
+            "timestamp": 5600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 514,
+                    "y": 754
+                },
+                "6": {
+                    "x": 546,
+                    "y": 792
+                },
+                "7": null,
+                "8": {
+                    "x": 543,
+                    "y": 870
+                },
+                "9": null,
+                "10": {
+                    "x": 530,
+                    "y": 909
+                },
+                "11": {
+                    "x": 462,
+                    "y": 899
+                },
+                "12": {
+                    "x": 532,
+                    "y": 960
+                },
+                "13": {
+                    "x": 462,
+                    "y": 941
+                },
+                "14": {
+                    "x": 495,
+                    "y": 840
+                },
+                "15": {
+                    "x": 469,
+                    "y": 825
+                }
+            },
+            "bounding_box": {
+                "x": 448,
+                "y": 685,
+                "width": 114,
+                "height": 303
+            }
+        },
+        {
+            "frame_number": 174,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/f994c309-c04a-42fa-85d5-085070e998d8.jpg",
+            "timestamp": 5800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 572,
+                    "y": 779
+                },
+                "6": {
+                    "x": 609,
+                    "y": 832
+                },
+                "7": null,
+                "8": {
+                    "x": 599,
+                    "y": 900
+                },
+                "9": null,
+                "10": {
+                    "x": 582,
+                    "y": 936
+                },
+                "11": {
+                    "x": 516,
+                    "y": 932
+                },
+                "12": {
+                    "x": 589,
+                    "y": 986
+                },
+                "13": {
+                    "x": 514,
+                    "y": 975
+                },
+                "14": {
+                    "x": 550,
+                    "y": 866
+                },
+                "15": {
+                    "x": 523,
+                    "y": 856
+                }
+            },
+            "bounding_box": {
+                "x": 504,
+                "y": 714,
+                "width": 114,
+                "height": 306
+            }
+        },
+        {
+            "frame_number": 180,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/bab12a80-653f-42f2-9846-f2c3b6b91b70.jpg",
+            "timestamp": 6000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 600,
+                    "y": 805
+                },
+                "6": {
+                    "x": 633,
+                    "y": 857
+                },
+                "7": null,
+                "8": {
+                    "x": 626,
+                    "y": 923
+                },
+                "9": null,
+                "10": {
+                    "x": 609,
+                    "y": 963
+                },
+                "11": {
+                    "x": 543,
+                    "y": 953
+                },
+                "12": {
+                    "x": 612,
+                    "y": 1013
+                },
+                "13": {
+                    "x": 539,
+                    "y": 1000
+                },
+                "14": {
+                    "x": 579,
+                    "y": 891
+                },
+                "15": {
+                    "x": 544,
+                    "y": 884
+                }
+            },
+            "bounding_box": {
+                "x": 529,
+                "y": 733,
+                "width": 116,
+                "height": 314
+            }
+        },
+        {
+            "frame_number": 186,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/e8fb2319-f06a-4030-96a1-6cdd1bed16af.jpg",
+            "timestamp": 6200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 586,
+                    "y": 790
+                },
+                "6": {
+                    "x": 620,
+                    "y": 858
+                },
+                "7": null,
+                "8": {
+                    "x": 613,
+                    "y": 916
+                },
+                "9": null,
+                "10": {
+                    "x": 594,
+                    "y": 958
+                },
+                "11": {
+                    "x": 524,
+                    "y": 937
+                },
+                "12": {
+                    "x": 597,
+                    "y": 1004
+                },
+                "13": {
+                    "x": 523,
+                    "y": 987
+                },
+                "14": {
+                    "x": 562,
+                    "y": 884
+                },
+                "15": {
+                    "x": 539,
+                    "y": 867
+                }
+            },
+            "bounding_box": {
+                "x": 513,
+                "y": 718,
+                "width": 118,
+                "height": 329
+            }
+        },
+        {
+            "frame_number": 192,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/b583d3b0-b658-49d3-9c0e-06ee82a0bd4c.jpg",
+            "timestamp": 6400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 541,
+                    "y": 808
+                },
+                "6": {
+                    "x": 578,
+                    "y": 861
+                },
+                "7": null,
+                "8": {
+                    "x": 568,
+                    "y": 928
+                },
+                "9": null,
+                "10": {
+                    "x": 545,
+                    "y": 972
+                },
+                "11": {
+                    "x": 477,
+                    "y": 957
+                },
+                "12": {
+                    "x": 546,
+                    "y": 1032
+                },
+                "13": {
+                    "x": 477,
+                    "y": 1010
+                },
+                "14": {
+                    "x": 515,
+                    "y": 898
+                },
+                "15": {
+                    "x": 485,
+                    "y": 889
+                }
+            },
+            "bounding_box": {
+                "x": 464,
+                "y": 732,
+                "width": 124,
+                "height": 324
+            }
+        },
+        {
+            "frame_number": 198,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/86c8b1c2-ea71-4313-a530-73b50668b291.jpg",
+            "timestamp": 6600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 507,
+                    "y": 832
+                },
+                "6": {
+                    "x": 543,
+                    "y": 877
+                },
+                "7": null,
+                "8": {
+                    "x": 536,
+                    "y": 947
+                },
+                "9": null,
+                "10": {
+                    "x": 519,
+                    "y": 992
+                },
+                "11": {
+                    "x": 452,
+                    "y": 975
+                },
+                "12": {
+                    "x": 517,
+                    "y": 1043
+                },
+                "13": {
+                    "x": 444,
+                    "y": 1024
+                },
+                "14": {
+                    "x": 483,
+                    "y": 923
+                },
+                "15": {
+                    "x": 445,
+                    "y": 913
+                }
+            },
+            "bounding_box": {
+                "x": 434,
+                "y": 760,
+                "width": 121,
+                "height": 318
+            }
+        },
+        {
+            "frame_number": 204,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/a6d3f5cb-ef11-49c5-b8b7-711b23b5f9df.jpg",
+            "timestamp": 6800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 473,
+                    "y": 827
+                },
+                "6": {
+                    "x": 505,
+                    "y": 875
+                },
+                "7": null,
+                "8": {
+                    "x": 501,
+                    "y": 945
+                },
+                "9": null,
+                "10": {
+                    "x": 481,
+                    "y": 991
+                },
+                "11": {
+                    "x": 413,
+                    "y": 981
+                },
+                "12": {
+                    "x": 486,
+                    "y": 1046
+                },
+                "13": {
+                    "x": 409,
+                    "y": 1028
+                },
+                "14": {
+                    "x": 450,
+                    "y": 930
+                },
+                "15": {
+                    "x": 408,
+                    "y": 918
+                }
+            },
+            "bounding_box": {
+                "x": 399,
+                "y": 782,
+                "width": 137,
+                "height": 296
+            }
+        },
+        {
+            "frame_number": 210,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/15282895-8bd5-49e5-a0c1-c5266c55b563.jpg",
+            "timestamp": 7000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 432,
+                    "y": 863
+                },
+                "6": {
+                    "x": 463,
+                    "y": 900
+                },
+                "7": null,
+                "8": {
+                    "x": 463,
+                    "y": 958
+                },
+                "9": null,
+                "10": {
+                    "x": 449,
+                    "y": 1004
+                },
+                "11": {
+                    "x": 376,
+                    "y": 1003
+                },
+                "12": {
+                    "x": 454,
+                    "y": 1054
+                },
+                "13": {
+                    "x": 380,
+                    "y": 1045
+                },
+                "14": {
+                    "x": 415,
+                    "y": 943
+                },
+                "15": {
+                    "x": 372,
+                    "y": 940
+                }
+            },
+            "bounding_box": {
+                "x": 362,
+                "y": 832,
+                "width": 132,
+                "height": 264
+            }
+        },
+        {
+            "frame_number": 216,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/a7089022-f7d9-437d-8728-64818f39deb6.jpg",
+            "timestamp": 7200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 422,
+                    "y": 872
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 424,
+                    "y": 1004
+                },
+                "11": {
+                    "x": 357,
+                    "y": 1007
+                },
+                "12": {
+                    "x": 422,
+                    "y": 1049
+                },
+                "13": {
+                    "x": 357,
+                    "y": 1055
+                },
+                "14": {
+                    "x": 399,
+                    "y": 956
+                },
+                "15": {
+                    "x": 361,
+                    "y": 940
+                }
+            },
+            "bounding_box": {
+                "x": 339,
+                "y": 852,
+                "width": 145,
+                "height": 244
+            }
+        },
+        {
+            "frame_number": 222,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/98be5d7e-66dd-4577-a126-9ae34a463d24.jpg",
+            "timestamp": 7400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 409,
+                    "y": 900
+                },
+                "6": {
+                    "x": 425,
+                    "y": 942
+                },
+                "7": null,
+                "8": {
+                    "x": 423,
+                    "y": 978
+                },
+                "9": null,
+                "10": {
+                    "x": 411,
+                    "y": 1037
+                },
+                "11": {
+                    "x": 346,
+                    "y": 1035
+                },
+                "12": {
+                    "x": 397,
+                    "y": 1080
+                },
+                "13": {
+                    "x": 350,
+                    "y": 1069
+                },
+                "14": {
+                    "x": 375,
+                    "y": 979
+                },
+                "15": {
+                    "x": 350,
+                    "y": 908
+                }
+            },
+            "bounding_box": {
+                "x": 322,
+                "y": 883,
+                "width": 152,
+                "height": 226
+            }
+        },
+        {
+            "frame_number": 228,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/35025fb0-81e3-48d6-9300-53fffacba0b3.jpg",
+            "timestamp": 7600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 382,
+                    "y": 866
+                },
+                "6": {
+                    "x": 414,
+                    "y": 928
+                },
+                "7": null,
+                "8": {
+                    "x": 411,
+                    "y": 981
+                },
+                "9": null,
+                "10": {
+                    "x": 397,
+                    "y": 998
+                },
+                "11": {
+                    "x": 338,
+                    "y": 1005
+                },
+                "12": {
+                    "x": 392,
+                    "y": 1042
+                },
+                "13": {
+                    "x": 337,
+                    "y": 1061
+                },
+                "14": {
+                    "x": 374,
+                    "y": 953
+                },
+                "15": {
+                    "x": 350,
+                    "y": 908
+                }
+            },
+            "bounding_box": {
+                "x": 322,
+                "y": 824,
+                "width": 133,
+                "height": 285
+            }
+        },
+        {
+            "frame_number": 234,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/588edb89-b1b0-49d0-8071-363ffdd2b75e.jpg",
+            "timestamp": 7800,
+            "keypoints": {
+                "1": {
+                    "x": 303,
+                    "y": 815
+                },
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 364,
+                    "y": 847
+                },
+                "6": null,
+                "7": null,
+                "8": {
+                    "x": 374,
+                    "y": 983
+                },
+                "9": null,
+                "10": {
+                    "x": 391,
+                    "y": 989
+                },
+                "11": {
+                    "x": 337,
+                    "y": 985
+                },
+                "12": {
+                    "x": 388,
+                    "y": 1037
+                },
+                "13": {
+                    "x": 336,
+                    "y": 1008
+                },
+                "14": {
+                    "x": 361,
+                    "y": 929
+                },
+                "15": {
+                    "x": 348,
+                    "y": 879
+                }
+            },
+            "bounding_box": {
+                "x": 296,
+                "y": 777,
+                "width": 127,
+                "height": 289
+            }
+        },
+        {
+            "frame_number": 240,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/f1ebb251-c255-483a-9368-3f7c58387e7a.jpg",
+            "timestamp": 8000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 350,
+                    "y": 845
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 404,
+                    "y": 961
+                },
+                "11": {
+                    "x": 342,
+                    "y": 986
+                },
+                "12": {
+                    "x": 419,
+                    "y": 998
+                },
+                "13": {
+                    "x": 350,
+                    "y": 1030
+                },
+                "14": {
+                    "x": 376,
+                    "y": 916
+                },
+                "15": {
+                    "x": 347,
+                    "y": 899
+                }
+            },
+            "bounding_box": {
+                "x": 292,
+                "y": 796,
+                "width": 148,
+                "height": 251
+            }
+        },
+        {
+            "frame_number": 246,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/f5d15bae-378f-46e1-89c7-6aad3d49ed9e.jpg",
+            "timestamp": 8200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 329,
+                    "y": 830
+                },
+                "6": null,
+                "7": {
+                    "x": 312,
+                    "y": 878
+                },
+                "8": null,
+                "9": {
+                    "x": 320,
+                    "y": 917
+                },
+                "10": {
+                    "x": 392,
+                    "y": 947
+                },
+                "11": {
+                    "x": 334,
+                    "y": 948
+                },
+                "12": {
+                    "x": 389,
+                    "y": 991
+                },
+                "13": {
+                    "x": 330,
+                    "y": 986
+                },
+                "14": {
+                    "x": 369,
+                    "y": 892
+                },
+                "15": {
+                    "x": 359,
+                    "y": 825
+                }
+            },
+            "bounding_box": {
+                "x": 263,
+                "y": 791,
+                "width": 143,
+                "height": 233
+            }
+        },
+        {
+            "frame_number": 252,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/c96a7a23-29e7-4bb1-9435-0928ac88d7a3.jpg",
+            "timestamp": 8400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 294,
+                    "y": 814
+                },
+                "6": null,
+                "7": {
+                    "x": 288,
+                    "y": 858
+                },
+                "8": null,
+                "9": {
+                    "x": 294,
+                    "y": 894
+                },
+                "10": {
+                    "x": 394,
+                    "y": 912
+                },
+                "11": {
+                    "x": 332,
+                    "y": 927
+                },
+                "12": {
+                    "x": 413,
+                    "y": 938
+                },
+                "13": {
+                    "x": 349,
+                    "y": 971
+                },
+                "14": {
+                    "x": 362,
+                    "y": 880
+                },
+                "15": {
+                    "x": 321,
+                    "y": 849
+                }
+            },
+            "bounding_box": {
+                "x": 228,
+                "y": 786,
+                "width": 201,
+                "height": 210
+            }
+        },
+        {
+            "frame_number": 258,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/7b2aa6ca-e934-4daf-820f-677369fa10d7.jpg",
+            "timestamp": 8600,
+            "keypoints": {
+                "1": {
+                    "x": 178,
+                    "y": 825
+                },
+                "2": {
+                    "x": 180,
+                    "y": 804
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 269,
+                    "y": 806
+                },
+                "6": null,
+                "7": {
+                    "x": 261,
+                    "y": 849
+                },
+                "8": null,
+                "9": {
+                    "x": 267,
+                    "y": 904
+                },
+                "10": {
+                    "x": 370,
+                    "y": 905
+                },
+                "11": {
+                    "x": 312,
+                    "y": 909
+                },
+                "12": {
+                    "x": 375,
+                    "y": 937
+                },
+                "13": {
+                    "x": 327,
+                    "y": 947
+                },
+                "14": {
+                    "x": 350,
+                    "y": 860
+                },
+                "15": {
+                    "x": 351,
+                    "y": 779
+                }
+            },
+            "bounding_box": {
+                "x": 174,
+                "y": 773,
+                "width": 209,
+                "height": 200
+            }
+        },
+        {
+            "frame_number": 264,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/85d7bb56-ab18-44ba-87a0-7cc73ce77c20.jpg",
+            "timestamp": 8800,
+            "keypoints": {
+                "1": {
+                    "x": 161,
+                    "y": 847
+                },
+                "2": {
+                    "x": 159,
+                    "y": 817
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 238,
+                    "y": 799
+                },
+                "6": null,
+                "7": {
+                    "x": 241,
+                    "y": 850
+                },
+                "8": {
+                    "x": 268,
+                    "y": 892
+                },
+                "9": null,
+                "10": {
+                    "x": 361,
+                    "y": 899
+                },
+                "11": {
+                    "x": 324,
+                    "y": 901
+                },
+                "12": {
+                    "x": 378,
+                    "y": 924
+                },
+                "13": {
+                    "x": 343,
+                    "y": 928
+                },
+                "14": {
+                    "x": 365,
+                    "y": 837
+                },
+                "15": {
+                    "x": 307,
+                    "y": 830
+                }
+            },
+            "bounding_box": {
+                "x": 153,
+                "y": 780,
+                "width": 235,
+                "height": 178
+            }
+        },
+        {
+            "frame_number": 270,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/a58e2743-0d39-49c4-a644-362d7e605bde.jpg",
+            "timestamp": 9000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 222,
+                    "y": 796
+                },
+                "6": null,
+                "7": {
+                    "x": 228,
+                    "y": 852
+                },
+                "8": {
+                    "x": 242,
+                    "y": 885
+                },
+                "9": {
+                    "x": 226,
+                    "y": 890
+                },
+                "10": null,
+                "11": {
+                    "x": 316,
+                    "y": 876
+                },
+                "12": {
+                    "x": 363,
+                    "y": 891
+                },
+                "13": {
+                    "x": 332,
+                    "y": 918
+                },
+                "14": {
+                    "x": 360,
+                    "y": 823
+                },
+                "15": {
+                    "x": 312,
+                    "y": 806
+                }
+            },
+            "bounding_box": {
+                "x": 129,
+                "y": 755,
+                "width": 262,
+                "height": 192
+            }
+        },
+        {
+            "frame_number": 276,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/d7ef496b-110c-4226-8949-5c4504d502c4.jpg",
+            "timestamp": 9200,
+            "keypoints": {
+                "1": {
+                    "x": 147,
+                    "y": 829
+                },
+                "2": {
+                    "x": 150,
+                    "y": 807
+                },
+                "3": {
+                    "x": 176,
+                    "y": 813
+                },
+                "4": null,
+                "5": {
+                    "x": 208,
+                    "y": 786
+                },
+                "6": null,
+                "7": {
+                    "x": 208,
+                    "y": 823
+                },
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": {
+                    "x": 312,
+                    "y": 875
+                },
+                "12": {
+                    "x": 359,
+                    "y": 875
+                },
+                "13": {
+                    "x": 323,
+                    "y": 903
+                },
+                "14": {
+                    "x": 347,
+                    "y": 807
+                },
+                "15": {
+                    "x": 324,
+                    "y": 795
+                }
+            },
+            "bounding_box": {
+                "x": 143,
+                "y": 755,
+                "width": 226,
+                "height": 166
+            }
+        },
+        {
+            "frame_number": 282,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/f655bff2-e3b4-480c-9f57-0217c9d92597.jpg",
+            "timestamp": 9400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 204,
+                    "y": 791
+                },
+                "6": null,
+                "7": {
+                    "x": 197,
+                    "y": 828
+                },
+                "8": {
+                    "x": 230,
+                    "y": 872
+                },
+                "9": {
+                    "x": 203,
+                    "y": 885
+                },
+                "10": {
+                    "x": 339,
+                    "y": 870
+                },
+                "11": {
+                    "x": 302,
+                    "y": 881
+                },
+                "12": {
+                    "x": 357,
+                    "y": 889
+                },
+                "13": {
+                    "x": 318,
+                    "y": 914
+                },
+                "14": {
+                    "x": 334,
+                    "y": 817
+                },
+                "15": {
+                    "x": 299,
+                    "y": 805
+                }
+            },
+            "bounding_box": {
+                "x": 123,
+                "y": 762,
+                "width": 241,
+                "height": 172
+            }
+        },
+        {
+            "frame_number": 288,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/436a336e-fe6f-4d25-86ad-73131fe3576d.jpg",
+            "timestamp": 9600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 191,
+                    "y": 781
+                },
+                "6": null,
+                "7": {
+                    "x": 178,
+                    "y": 816
+                },
+                "8": {
+                    "x": 233,
+                    "y": 871
+                },
+                "9": {
+                    "x": 188,
+                    "y": 876
+                },
+                "10": null,
+                "11": {
+                    "x": 305,
+                    "y": 878
+                },
+                "12": null,
+                "13": {
+                    "x": 320,
+                    "y": 901
+                },
+                "14": {
+                    "x": 325,
+                    "y": 806
+                },
+                "15": {
+                    "x": 293,
+                    "y": 792
+                }
+            },
+            "bounding_box": {
+                "x": 120,
+                "y": 753,
+                "width": 224,
+                "height": 170
+            }
+        },
+        {
+            "frame_number": 294,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/e17c2a57-15d3-415e-a5f0-0fe7f77d0082.jpg",
+            "timestamp": 9800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 173,
+                    "y": 775
+                },
+                "6": null,
+                "7": {
+                    "x": 155,
+                    "y": 820
+                },
+                "8": {
+                    "x": 157,
+                    "y": 846
+                },
+                "9": {
+                    "x": 177,
+                    "y": 877
+                },
+                "10": null,
+                "11": {
+                    "x": 283,
+                    "y": 865
+                },
+                "12": {
+                    "x": 315,
+                    "y": 870
+                },
+                "13": {
+                    "x": 303,
+                    "y": 893
+                },
+                "14": {
+                    "x": 305,
+                    "y": 801
+                },
+                "15": {
+                    "x": 274,
+                    "y": 770
+                }
+            },
+            "bounding_box": {
+                "x": 94,
+                "y": 720,
+                "width": 230,
+                "height": 203
+            }
+        },
+        {
+            "frame_number": 300,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/8afd538c-6119-48b9-bd20-1b6ad7e85632.jpg",
+            "timestamp": 10000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 141,
+                    "y": 760
+                },
+                "6": null,
+                "7": {
+                    "x": 126,
+                    "y": 801
+                },
+                "8": {
+                    "x": 151,
+                    "y": 849
+                },
+                "9": {
+                    "x": 123,
+                    "y": 850
+                },
+                "10": {
+                    "x": 276,
+                    "y": 841
+                },
+                "11": {
+                    "x": 233,
+                    "y": 852
+                },
+                "12": {
+                    "x": 296,
+                    "y": 863
+                },
+                "13": {
+                    "x": 238,
+                    "y": 882
+                },
+                "14": {
+                    "x": 273,
+                    "y": 786
+                },
+                "15": {
+                    "x": 233,
+                    "y": 783
+                }
+            },
+            "bounding_box": {
+                "x": 58,
+                "y": 730,
+                "width": 247,
+                "height": 166
+            }
+        },
+        {
+            "frame_number": 306,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/90e5170f-e7cf-42f3-b126-9355d99775c0.jpg",
+            "timestamp": 10200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 119,
+                    "y": 762
+                },
+                "6": null,
+                "7": {
+                    "x": 106,
+                    "y": 801
+                },
+                "8": {
+                    "x": 135,
+                    "y": 849
+                },
+                "9": {
+                    "x": 113,
+                    "y": 853
+                },
+                "10": null,
+                "11": {
+                    "x": 210,
+                    "y": 852
+                },
+                "12": null,
+                "13": {
+                    "x": 232,
+                    "y": 885
+                },
+                "14": {
+                    "x": 236,
+                    "y": 783
+                },
+                "15": {
+                    "x": 173,
+                    "y": 749
+                }
+            },
+            "bounding_box": {
+                "x": 33,
+                "y": 730,
+                "width": 218,
+                "height": 173
+            }
+        },
+        {
+            "frame_number": 312,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/d9548454-9e0a-43b8-b9a2-67657008ae19.jpg",
+            "timestamp": 10400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 97,
+                    "y": 765
+                },
+                "6": null,
+                "7": {
+                    "x": 80,
+                    "y": 813
+                },
+                "8": null,
+                "9": {
+                    "x": 108,
+                    "y": 863
+                },
+                "10": null,
+                "11": {
+                    "x": 179,
+                    "y": 853
+                },
+                "12": {
+                    "x": 219,
+                    "y": 868
+                },
+                "13": {
+                    "x": 205,
+                    "y": 874
+                },
+                "14": {
+                    "x": 219,
+                    "y": 805
+                },
+                "15": {
+                    "x": 173,
+                    "y": 761
+                }
+            },
+            "bounding_box": {
+                "x": 11,
+                "y": 739,
+                "width": 226,
+                "height": 171
+            }
+        },
+        {
+            "frame_number": 318,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/e37c6eb5-a49b-4f16-8307-c284a339f8f4.jpg",
+            "timestamp": 10600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 116,
+                    "y": 773
+                },
+                "6": null,
+                "7": {
+                    "x": 98,
+                    "y": 812
+                },
+                "8": {
+                    "x": 132,
+                    "y": 859
+                },
+                "9": {
+                    "x": 106,
+                    "y": 857
+                },
+                "10": null,
+                "11": {
+                    "x": 191,
+                    "y": 866
+                },
+                "12": {
+                    "x": 240,
+                    "y": 874
+                },
+                "13": {
+                    "x": 206,
+                    "y": 895
+                },
+                "14": {
+                    "x": 234,
+                    "y": 802
+                },
+                "15": {
+                    "x": 192,
+                    "y": 804
+                }
+            },
+            "bounding_box": {
+                "x": 27,
+                "y": 737,
+                "width": 226,
+                "height": 179
+            }
+        },
+        {
+            "frame_number": 324,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/21501a24-dc8d-4df8-8a53-a73650299c5b.jpg",
+            "timestamp": 10800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 163,
+                    "y": 772
+                },
+                "6": null,
+                "7": {
+                    "x": 144,
+                    "y": 817
+                },
+                "8": {
+                    "x": 180,
+                    "y": 853
+                },
+                "9": {
+                    "x": 154,
+                    "y": 861
+                },
+                "10": null,
+                "11": {
+                    "x": 234,
+                    "y": 862
+                },
+                "12": {
+                    "x": 284,
+                    "y": 864
+                },
+                "13": {
+                    "x": 246,
+                    "y": 894
+                },
+                "14": {
+                    "x": 276,
+                    "y": 810
+                },
+                "15": {
+                    "x": 199,
+                    "y": 773
+                }
+            },
+            "bounding_box": {
+                "x": 84,
+                "y": 730,
+                "width": 209,
+                "height": 180
+            }
+        },
+        {
+            "frame_number": 330,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/fbbdaf3b-d62e-48d3-9f2a-4327f8e38335.jpg",
+            "timestamp": 11000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 175,
+                    "y": 767
+                },
+                "6": null,
+                "7": {
+                    "x": 150,
+                    "y": 797
+                },
+                "8": {
+                    "x": 177,
+                    "y": 851
+                },
+                "9": {
+                    "x": 155,
+                    "y": 852
+                },
+                "10": null,
+                "11": {
+                    "x": 254,
+                    "y": 865
+                },
+                "12": {
+                    "x": 288,
+                    "y": 867
+                },
+                "13": {
+                    "x": 263,
+                    "y": 890
+                },
+                "14": {
+                    "x": 285,
+                    "y": 795
+                },
+                "15": {
+                    "x": 258,
+                    "y": 790
+                }
+            },
+            "bounding_box": {
+                "x": 100,
+                "y": 718,
+                "width": 203,
+                "height": 189
+            }
+        },
+        {
+            "frame_number": 336,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/63bbe327-21e7-434e-aa3a-33f4371716dd.jpg",
+            "timestamp": 11200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 169,
+                    "y": 786
+                },
+                "6": null,
+                "7": {
+                    "x": 133,
+                    "y": 820
+                },
+                "8": {
+                    "x": 172,
+                    "y": 879
+                },
+                "9": {
+                    "x": 101,
+                    "y": 855
+                },
+                "10": null,
+                "11": {
+                    "x": 232,
+                    "y": 871
+                },
+                "12": {
+                    "x": 257,
+                    "y": 898
+                },
+                "13": {
+                    "x": 242,
+                    "y": 901
+                },
+                "14": {
+                    "x": 279,
+                    "y": 826
+                },
+                "15": {
+                    "x": 239,
+                    "y": 789
+                }
+            },
+            "bounding_box": {
+                "x": 63,
+                "y": 749,
+                "width": 230,
+                "height": 177
+            }
+        },
+        {
+            "frame_number": 342,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/7fc6cbfe-9996-433f-b575-9e15dc0dc7c0.jpg",
+            "timestamp": 11400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 152,
+                    "y": 766
+                },
+                "6": null,
+                "7": {
+                    "x": 115,
+                    "y": 788
+                },
+                "8": null,
+                "9": {
+                    "x": 102,
+                    "y": 818
+                },
+                "10": null,
+                "11": {
+                    "x": 200,
+                    "y": 893
+                },
+                "12": {
+                    "x": 232,
+                    "y": 904
+                },
+                "13": {
+                    "x": 197,
+                    "y": 925
+                },
+                "14": {
+                    "x": 254,
+                    "y": 840
+                },
+                "15": {
+                    "x": 262,
+                    "y": 763
+                }
+            },
+            "bounding_box": {
+                "x": 72,
+                "y": 711,
+                "width": 230,
+                "height": 225
+            }
+        },
+        {
+            "frame_number": 348,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/91fdb626-4da1-48cf-92cb-81c12df32293.jpg",
+            "timestamp": 11600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 132,
+                    "y": 792
+                },
+                "6": null,
+                "7": {
+                    "x": 96,
+                    "y": 826
+                },
+                "8": {
+                    "x": 123,
+                    "y": 882
+                },
+                "9": {
+                    "x": 68,
+                    "y": 856
+                },
+                "10": null,
+                "11": {
+                    "x": 193,
+                    "y": 908
+                },
+                "12": {
+                    "x": 227,
+                    "y": 913
+                },
+                "13": {
+                    "x": 180,
+                    "y": 934
+                },
+                "14": {
+                    "x": 235,
+                    "y": 848
+                },
+                "15": {
+                    "x": 249,
+                    "y": 771
+                }
+            },
+            "bounding_box": {
+                "x": 37,
+                "y": 754,
+                "width": 240,
+                "height": 190
+            }
+        },
+        {
+            "frame_number": 354,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/f517fcd2-c247-49a8-a82c-75a2dd480fd5.jpg",
+            "timestamp": 11800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 106,
+                    "y": 783
+                },
+                "6": null,
+                "7": {
+                    "x": 74,
+                    "y": 808
+                },
+                "8": null,
+                "9": {
+                    "x": 44,
+                    "y": 847
+                },
+                "10": {
+                    "x": 207,
+                    "y": 878
+                },
+                "11": {
+                    "x": 156,
+                    "y": 893
+                },
+                "12": {
+                    "x": 214,
+                    "y": 907
+                },
+                "13": {
+                    "x": 160,
+                    "y": 926
+                },
+                "14": {
+                    "x": 207,
+                    "y": 842
+                },
+                "15": {
+                    "x": 191,
+                    "y": 778
+                }
+            },
+            "bounding_box": {
+                "x": 10,
+                "y": 749,
+                "width": 221,
+                "height": 199
+            }
+        },
+        {
+            "frame_number": 360,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/fc72d90d-6fd8-4910-97e0-8cfef8547f7b.jpg",
+            "timestamp": 12000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 86,
+                    "y": 777
+                },
+                "6": null,
+                "7": {
+                    "x": 56,
+                    "y": 809
+                },
+                "8": null,
+                "9": {
+                    "x": 68,
+                    "y": 836
+                },
+                "10": null,
+                "11": {
+                    "x": 132,
+                    "y": 900
+                },
+                "12": {
+                    "x": 159,
+                    "y": 907
+                },
+                "13": {
+                    "x": 140,
+                    "y": 928
+                },
+                "14": {
+                    "x": 179,
+                    "y": 846
+                },
+                "15": {
+                    "x": 163,
+                    "y": 794
+                }
+            },
+            "bounding_box": {
+                "x": 10,
+                "y": 744,
+                "width": 193,
+                "height": 204
+            }
+        },
+        {
+            "frame_number": 366,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/96592e89-0f66-4158-8b3c-65d6d4309bdc.jpg",
+            "timestamp": 12200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 71,
+                    "y": 800
+                },
+                "6": null,
+                "7": {
+                    "x": 52,
+                    "y": 846
+                },
+                "8": null,
+                "9": {
+                    "x": 60,
+                    "y": 899
+                },
+                "10": null,
+                "11": {
+                    "x": 135,
+                    "y": 898
+                },
+                "12": {
+                    "x": 166,
+                    "y": 911
+                },
+                "13": {
+                    "x": 131,
+                    "y": 939
+                },
+                "14": {
+                    "x": 188,
+                    "y": 848
+                },
+                "15": {
+                    "x": 186,
+                    "y": 779
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 744,
+                "width": 235,
+                "height": 211
+            }
+        },
+        {
+            "frame_number": 372,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/73fab80b-7e9e-4af8-8885-82b36c668fd9.jpg",
+            "timestamp": 12400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 58,
+                    "y": 802
+                },
+                "6": null,
+                "7": {
+                    "x": 32,
+                    "y": 847
+                },
+                "8": null,
+                "9": {
+                    "x": 20,
+                    "y": 901
+                },
+                "10": null,
+                "11": {
+                    "x": 128,
+                    "y": 898
+                },
+                "12": {
+                    "x": 156,
+                    "y": 907
+                },
+                "13": {
+                    "x": 121,
+                    "y": 936
+                },
+                "14": {
+                    "x": 181,
+                    "y": 835
+                },
+                "15": {
+                    "x": 133,
+                    "y": 809
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 772,
+                "width": 204,
+                "height": 183
+            }
+        },
+        {
+            "frame_number": 378,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/4ca4635b-3702-47fb-aa3f-fe445c8fd995.jpg",
+            "timestamp": 12600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 48,
+                    "y": 807
+                },
+                "6": null,
+                "7": {
+                    "x": 32,
+                    "y": 847
+                },
+                "8": null,
+                "9": {
+                    "x": 39,
+                    "y": 904
+                },
+                "10": null,
+                "11": {
+                    "x": 103,
+                    "y": 907
+                },
+                "12": {
+                    "x": 143,
+                    "y": 918
+                },
+                "13": {
+                    "x": 99,
+                    "y": 948
+                },
+                "14": {
+                    "x": 155,
+                    "y": 869
+                },
+                "15": {
+                    "x": 137,
+                    "y": 839
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 768,
+                "width": 204,
+                "height": 194
+            }
+        },
+        {
+            "frame_number": 384,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/48bbd2c3-32b1-4be7-88f6-359cba7f18ed.jpg",
+            "timestamp": 12800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 57,
+                    "y": 819
+                },
+                "6": null,
+                "7": {
+                    "x": 33,
+                    "y": 861
+                },
+                "8": null,
+                "9": {
+                    "x": 36,
+                    "y": 924
+                },
+                "10": null,
+                "11": {
+                    "x": 108,
+                    "y": 919
+                },
+                "12": {
+                    "x": 150,
+                    "y": 932
+                },
+                "13": {
+                    "x": 104,
+                    "y": 959
+                },
+                "14": {
+                    "x": 174,
+                    "y": 874
+                },
+                "15": {
+                    "x": 151,
+                    "y": 837
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 768,
+                "width": 218,
+                "height": 206
+            }
+        },
+        {
+            "frame_number": 390,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/ff26db48-9a43-4340-99e5-bc001aa51e91.jpg",
+            "timestamp": 13000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 51,
+                    "y": 822
+                },
+                "6": null,
+                "7": {
+                    "x": 40,
+                    "y": 870
+                },
+                "8": null,
+                "9": {
+                    "x": 57,
+                    "y": 928
+                },
+                "10": null,
+                "11": {
+                    "x": 113,
+                    "y": 922
+                },
+                "12": {
+                    "x": 155,
+                    "y": 925
+                },
+                "13": {
+                    "x": 104,
+                    "y": 956
+                },
+                "14": {
+                    "x": 169,
+                    "y": 874
+                },
+                "15": {
+                    "x": 131,
+                    "y": 835
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 780,
+                "width": 195,
+                "height": 194
+            }
+        },
+        {
+            "frame_number": 396,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/168885aa-fe36-4910-9750-f6c46a7303cf.jpg",
+            "timestamp": 13200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 62,
+                    "y": 831
+                },
+                "6": null,
+                "7": {
+                    "x": 40,
+                    "y": 870
+                },
+                "8": null,
+                "9": {
+                    "x": 53,
+                    "y": 927
+                },
+                "10": null,
+                "11": {
+                    "x": 113,
+                    "y": 922
+                },
+                "12": {
+                    "x": 163,
+                    "y": 937
+                },
+                "13": {
+                    "x": 100,
+                    "y": 961
+                },
+                "14": {
+                    "x": 182,
+                    "y": 886
+                },
+                "15": {
+                    "x": 230,
+                    "y": 896
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 793,
+                "width": 236,
+                "height": 181
+            }
+        },
+        {
+            "frame_number": 402,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/4c75dcbd-dd0e-4364-a1e9-81f16921e528.jpg",
+            "timestamp": 13400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 77,
+                    "y": 818
+                },
+                "6": null,
+                "7": {
+                    "x": 64,
+                    "y": 856
+                },
+                "8": null,
+                "9": {
+                    "x": 81,
+                    "y": 921
+                },
+                "10": null,
+                "11": {
+                    "x": 121,
+                    "y": 923
+                },
+                "12": {
+                    "x": 174,
+                    "y": 931
+                },
+                "13": {
+                    "x": 106,
+                    "y": 955
+                },
+                "14": {
+                    "x": 179,
+                    "y": 885
+                },
+                "15": {
+                    "x": 158,
+                    "y": 856
+                }
+            },
+            "bounding_box": {
+                "x": 13,
+                "y": 782,
+                "width": 208,
+                "height": 188
+            }
+        },
+        {
+            "frame_number": 408,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/1e1dd888-0aed-40bf-9cb1-8d789cf11849.jpg",
+            "timestamp": 13600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 97,
+                    "y": 816
+                },
+                "6": null,
+                "7": {
+                    "x": 71,
+                    "y": 858
+                },
+                "8": null,
+                "9": {
+                    "x": 90,
+                    "y": 921
+                },
+                "10": null,
+                "11": {
+                    "x": 137,
+                    "y": 921
+                },
+                "12": {
+                    "x": 193,
+                    "y": 933
+                },
+                "13": {
+                    "x": 136,
+                    "y": 964
+                },
+                "14": {
+                    "x": 203,
+                    "y": 893
+                },
+                "15": {
+                    "x": 172,
+                    "y": 838
+                }
+            },
+            "bounding_box": {
+                "x": 37,
+                "y": 768,
+                "width": 177,
+                "height": 207
+            }
+        },
+        {
+            "frame_number": 414,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/0033d802-cadc-448d-afbb-ea7e2206e9b2.jpg",
+            "timestamp": 13800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 111,
+                    "y": 806
+                },
+                "6": null,
+                "7": {
+                    "x": 97,
+                    "y": 847
+                },
+                "8": null,
+                "9": {
+                    "x": 123,
+                    "y": 912
+                },
+                "10": null,
+                "11": {
+                    "x": 161,
+                    "y": 904
+                },
+                "12": {
+                    "x": 207,
+                    "y": 920
+                },
+                "13": {
+                    "x": 146,
+                    "y": 942
+                },
+                "14": {
+                    "x": 226,
+                    "y": 858
+                },
+                "15": {
+                    "x": 205,
+                    "y": 819
+                }
+            },
+            "bounding_box": {
+                "x": 31,
+                "y": 773,
+                "width": 225,
+                "height": 191
+            }
+        },
+        {
+            "frame_number": 420,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/8a85014e-e173-44c1-a869-38b1aa1c477d.jpg",
+            "timestamp": 14000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 114,
+                    "y": 817
+                },
+                "6": null,
+                "7": {
+                    "x": 94,
+                    "y": 857
+                },
+                "8": null,
+                "9": {
+                    "x": 90,
+                    "y": 905
+                },
+                "10": null,
+                "11": {
+                    "x": 166,
+                    "y": 923
+                },
+                "12": {
+                    "x": 210,
+                    "y": 935
+                },
+                "13": {
+                    "x": 150,
+                    "y": 954
+                },
+                "14": {
+                    "x": 234,
+                    "y": 880
+                },
+                "15": {
+                    "x": 238,
+                    "y": 836
+                }
+            },
+            "bounding_box": {
+                "x": 27,
+                "y": 783,
+                "width": 245,
+                "height": 191
+            }
+        },
+        {
+            "frame_number": 426,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/bb809112-5476-4f11-a986-020d8fb4f5b5.jpg",
+            "timestamp": 14200,
+            "keypoints": {
+                "1": {
+                    "x": 26,
+                    "y": 830
+                },
+                "2": {
+                    "x": 26,
+                    "y": 811
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 121,
+                    "y": 816
+                },
+                "6": null,
+                "7": {
+                    "x": 111,
+                    "y": 862
+                },
+                "8": null,
+                "9": {
+                    "x": 129,
+                    "y": 910
+                },
+                "10": null,
+                "11": {
+                    "x": 174,
+                    "y": 931
+                },
+                "12": {
+                    "x": 212,
+                    "y": 939
+                },
+                "13": {
+                    "x": 165,
+                    "y": 964
+                },
+                "14": {
+                    "x": 233,
+                    "y": 875
+                },
+                "15": {
+                    "x": 253,
+                    "y": 840
+                }
+            },
+            "bounding_box": {
+                "x": 20,
+                "y": 790,
+                "width": 250,
+                "height": 191
+            }
+        },
+        {
+            "frame_number": 432,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/5d9b5c23-1098-4fc5-9d6c-9dcbf5458035.jpg",
+            "timestamp": 14400,
+            "keypoints": {
+                "1": {
+                    "x": 30,
+                    "y": 809
+                },
+                "2": {
+                    "x": 46,
+                    "y": 785
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 121,
+                    "y": 816
+                },
+                "6": null,
+                "7": {
+                    "x": 111,
+                    "y": 862
+                },
+                "8": null,
+                "9": {
+                    "x": 129,
+                    "y": 910
+                },
+                "10": null,
+                "11": {
+                    "x": 190,
+                    "y": 924
+                },
+                "12": {
+                    "x": 228,
+                    "y": 932
+                },
+                "13": {
+                    "x": 197,
+                    "y": 965
+                },
+                "14": {
+                    "x": 255,
+                    "y": 879
+                },
+                "15": {
+                    "x": 238,
+                    "y": 829
+                }
+            },
+            "bounding_box": {
+                "x": 20,
+                "y": 775,
+                "width": 263,
+                "height": 210
+            }
+        },
+        {
+            "frame_number": 438,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/73df472e-e379-46cb-9854-b2ab8eef5afe.jpg",
+            "timestamp": 14600,
+            "keypoints": {
+                "1": {
+                    "x": 49,
+                    "y": 803
+                },
+                "2": {
+                    "x": 64,
+                    "y": 783
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 141,
+                    "y": 812
+                },
+                "6": null,
+                "7": {
+                    "x": 139,
+                    "y": 866
+                },
+                "8": null,
+                "9": {
+                    "x": 170,
+                    "y": 924
+                },
+                "10": null,
+                "11": {
+                    "x": 216,
+                    "y": 934
+                },
+                "12": null,
+                "13": {
+                    "x": 202,
+                    "y": 968
+                },
+                "14": {
+                    "x": 264,
+                    "y": 873
+                },
+                "15": {
+                    "x": 305,
+                    "y": 884
+                }
+            },
+            "bounding_box": {
+                "x": 45,
+                "y": 771,
+                "width": 267,
+                "height": 221
+            }
+        },
+        {
+            "frame_number": 444,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/fa1eb008-7f05-4861-99c4-229a062acde3.jpg",
+            "timestamp": 14800,
+            "keypoints": {
+                "1": {
+                    "x": 55,
+                    "y": 891
+                },
+                "2": {
+                    "x": 52,
+                    "y": 868
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 145,
+                    "y": 848
+                },
+                "6": null,
+                "7": {
+                    "x": 157,
+                    "y": 897
+                },
+                "8": null,
+                "9": {
+                    "x": 174,
+                    "y": 954
+                },
+                "10": null,
+                "11": {
+                    "x": 242,
+                    "y": 938
+                },
+                "12": null,
+                "13": {
+                    "x": 227,
+                    "y": 980
+                },
+                "14": {
+                    "x": 280,
+                    "y": 883
+                },
+                "15": {
+                    "x": 290,
+                    "y": 839
+                }
+            },
+            "bounding_box": {
+                "x": 45,
+                "y": 831,
+                "width": 278,
+                "height": 167
+            }
+        },
+        {
+            "frame_number": 450,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/7c0dd5dd-90a6-4edf-80cc-7a5c4473de55.jpg",
+            "timestamp": 15000,
+            "keypoints": {
+                "1": {
+                    "x": 59,
+                    "y": 882
+                },
+                "2": {
+                    "x": 55,
+                    "y": 858
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 152,
+                    "y": 830
+                },
+                "6": null,
+                "7": {
+                    "x": 162,
+                    "y": 877
+                },
+                "8": null,
+                "9": {
+                    "x": 191,
+                    "y": 929
+                },
+                "10": null,
+                "11": {
+                    "x": 250,
+                    "y": 922
+                },
+                "12": null,
+                "13": {
+                    "x": 271,
+                    "y": 949
+                },
+                "14": {
+                    "x": 287,
+                    "y": 867
+                },
+                "15": {
+                    "x": 308,
+                    "y": 824
+                }
+            },
+            "bounding_box": {
+                "x": 51,
+                "y": 812,
+                "width": 276,
+                "height": 168
+            }
+        },
+        {
+            "frame_number": 456,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/6254740f-0af5-4992-be60-fe666a82c9b5.jpg",
+            "timestamp": 15200,
+            "keypoints": {
+                "1": {
+                    "x": 65,
+                    "y": 876
+                },
+                "2": {
+                    "x": 61,
+                    "y": 850
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 153,
+                    "y": 838
+                },
+                "6": null,
+                "7": {
+                    "x": 159,
+                    "y": 866
+                },
+                "8": null,
+                "9": {
+                    "x": 201,
+                    "y": 916
+                },
+                "10": null,
+                "11": {
+                    "x": 266,
+                    "y": 922
+                },
+                "12": null,
+                "13": {
+                    "x": 264,
+                    "y": 962
+                },
+                "14": {
+                    "x": 281,
+                    "y": 845
+                },
+                "15": {
+                    "x": 309,
+                    "y": 855
+                }
+            },
+            "bounding_box": {
+                "x": 54,
+                "y": 816,
+                "width": 267,
+                "height": 176
+            }
+        },
+        {
+            "frame_number": 462,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/76bdccb3-743d-4f76-abf8-b31ec7a40d23.jpg",
+            "timestamp": 15400,
+            "keypoints": {
+                "1": {
+                    "x": 91,
+                    "y": 884
+                },
+                "2": {
+                    "x": 84,
+                    "y": 858
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 156,
+                    "y": 843
+                },
+                "6": null,
+                "7": {
+                    "x": 169,
+                    "y": 884
+                },
+                "8": null,
+                "9": {
+                    "x": 190,
+                    "y": 940
+                },
+                "10": null,
+                "11": {
+                    "x": 264,
+                    "y": 919
+                },
+                "12": null,
+                "13": {
+                    "x": 278,
+                    "y": 950
+                },
+                "14": {
+                    "x": 282,
+                    "y": 862
+                },
+                "15": {
+                    "x": 267,
+                    "y": 850
+                }
+            },
+            "bounding_box": {
+                "x": 54,
+                "y": 811,
+                "width": 262,
+                "height": 171
+            }
+        },
+        {
+            "frame_number": 468,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/b006bb45-2667-4418-9c5f-d50a51e082c3.jpg",
+            "timestamp": 15600,
+            "keypoints": {
+                "1": {
+                    "x": 98,
+                    "y": 879
+                },
+                "2": {
+                    "x": 94,
+                    "y": 851
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 145,
+                    "y": 823
+                },
+                "6": null,
+                "7": {
+                    "x": 169,
+                    "y": 871
+                },
+                "8": null,
+                "9": {
+                    "x": 193,
+                    "y": 922
+                },
+                "10": null,
+                "11": {
+                    "x": 241,
+                    "y": 890
+                },
+                "12": null,
+                "13": {
+                    "x": 259,
+                    "y": 924
+                },
+                "14": {
+                    "x": 263,
+                    "y": 838
+                },
+                "15": {
+                    "x": 226,
+                    "y": 802
+                }
+            },
+            "bounding_box": {
+                "x": 58,
+                "y": 789,
+                "width": 236,
+                "height": 174
+            }
+        },
+        {
+            "frame_number": 474,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/b0ddc6bc-a0d1-4d53-9c39-f40d34979a84.jpg",
+            "timestamp": 15800,
+            "keypoints": {
+                "1": {
+                    "x": 116,
+                    "y": 872
+                },
+                "2": {
+                    "x": 114,
+                    "y": 845
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 150,
+                    "y": 835
+                },
+                "6": null,
+                "7": {
+                    "x": 170,
+                    "y": 876
+                },
+                "8": null,
+                "9": {
+                    "x": 198,
+                    "y": 918
+                },
+                "10": null,
+                "11": {
+                    "x": 261,
+                    "y": 905
+                },
+                "12": null,
+                "13": {
+                    "x": 267,
+                    "y": 939
+                },
+                "14": {
+                    "x": 260,
+                    "y": 844
+                },
+                "15": {
+                    "x": 255,
+                    "y": 792
+                }
+            },
+            "bounding_box": {
+                "x": 73,
+                "y": 778,
+                "width": 224,
+                "height": 191
+            }
+        },
+        {
+            "frame_number": 480,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/a77b912b-fe0a-43a3-b322-04c1ae1fff12.jpg",
+            "timestamp": 16000,
+            "keypoints": {
+                "1": {
+                    "x": 124,
+                    "y": 842
+                },
+                "2": {
+                    "x": 123,
+                    "y": 816
+                },
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": {
+                    "x": 121,
+                    "y": 882
+                },
+                "7": {
+                    "x": 176,
+                    "y": 867
+                },
+                "8": null,
+                "9": {
+                    "x": 201,
+                    "y": 906
+                },
+                "10": null,
+                "11": {
+                    "x": 245,
+                    "y": 881
+                },
+                "12": null,
+                "13": {
+                    "x": 253,
+                    "y": 917
+                },
+                "14": {
+                    "x": 249,
+                    "y": 814
+                },
+                "15": {
+                    "x": 197,
+                    "y": 789
+                }
+            },
+            "bounding_box": {
+                "x": 79,
+                "y": 761,
+                "width": 193,
+                "height": 196
+            }
+        },
+        {
+            "frame_number": 486,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/9e3e10a6-04e2-4857-a486-a78fb2c0a2a8.jpg",
+            "timestamp": 16200,
+            "keypoints": {
+                "1": {
+                    "x": 125,
+                    "y": 848
+                },
+                "2": {
+                    "x": 128,
+                    "y": 822
+                },
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": {
+                    "x": 125,
+                    "y": 878
+                },
+                "7": {
+                    "x": 176,
+                    "y": 867
+                },
+                "8": null,
+                "9": {
+                    "x": 201,
+                    "y": 906
+                },
+                "10": null,
+                "11": {
+                    "x": 245,
+                    "y": 881
+                },
+                "12": null,
+                "13": {
+                    "x": 253,
+                    "y": 917
+                },
+                "14": {
+                    "x": 251,
+                    "y": 817
+                },
+                "15": {
+                    "x": 265,
+                    "y": 782
+                }
+            },
+            "bounding_box": {
+                "x": 79,
+                "y": 774,
+                "width": 216,
+                "height": 168
+            }
+        },
+        {
+            "frame_number": 492,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/3964de4b-07ea-4f28-84bf-77e8117563ac.jpg",
+            "timestamp": 16400,
+            "keypoints": {
+                "1": {
+                    "x": 135,
+                    "y": 859
+                },
+                "2": {
+                    "x": 136,
+                    "y": 836
+                },
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": {
+                    "x": 178,
+                    "y": 862
+                },
+                "8": null,
+                "9": {
+                    "x": 198,
+                    "y": 906
+                },
+                "10": null,
+                "11": {
+                    "x": 249,
+                    "y": 881
+                },
+                "12": null,
+                "13": {
+                    "x": 248,
+                    "y": 913
+                },
+                "14": {
+                    "x": 256,
+                    "y": 817
+                },
+                "15": {
+                    "x": 291,
+                    "y": 827
+                }
+            },
+            "bounding_box": {
+                "x": 107,
+                "y": 765,
+                "width": 190,
+                "height": 177
+            }
+        },
+        {
+            "frame_number": 498,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/0157f170-a48b-4a69-8b0f-10101e149698.jpg",
+            "timestamp": 16600,
+            "keypoints": {
+                "1": {
+                    "x": 136,
+                    "y": 853
+                },
+                "2": {
+                    "x": 141,
+                    "y": 828
+                },
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": {
+                    "x": 189,
+                    "y": 862
+                },
+                "8": null,
+                "9": {
+                    "x": 207,
+                    "y": 926
+                },
+                "10": null,
+                "11": {
+                    "x": 253,
+                    "y": 875
+                },
+                "12": null,
+                "13": {
+                    "x": 265,
+                    "y": 903
+                },
+                "14": {
+                    "x": 257,
+                    "y": 825
+                },
+                "15": {
+                    "x": 248,
+                    "y": 776
+                }
+            },
+            "bounding_box": {
+                "x": 123,
+                "y": 765,
+                "width": 173,
+                "height": 199
+            }
+        },
+        {
+            "frame_number": 504,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/99440421-8b25-4a45-899b-5b57731545d9.jpg",
+            "timestamp": 16800,
+            "keypoints": {
+                "1": {
+                    "x": 114,
+                    "y": 846
+                },
+                "2": {
+                    "x": 125,
+                    "y": 824
+                },
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": {
+                    "x": 211,
+                    "y": 863
+                },
+                "8": null,
+                "9": {
+                    "x": 228,
+                    "y": 902
+                },
+                "10": null,
+                "11": {
+                    "x": 263,
+                    "y": 874
+                },
+                "12": null,
+                "13": {
+                    "x": 265,
+                    "y": 906
+                },
+                "14": {
+                    "x": 261,
+                    "y": 812
+                },
+                "15": {
+                    "x": 227,
+                    "y": 776
+                }
+            },
+            "bounding_box": {
+                "x": 108,
+                "y": 765,
+                "width": 188,
+                "height": 174
+            }
+        },
+        {
+            "frame_number": 510,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/e9f2deb2-680e-41ab-b813-7b8cabc0afa5.jpg",
+            "timestamp": 17000,
+            "keypoints": {
+                "1": {
+                    "x": 107,
+                    "y": 894
+                },
+                "2": {
+                    "x": 103,
+                    "y": 869
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 167,
+                    "y": 831
+                },
+                "6": null,
+                "7": {
+                    "x": 211,
+                    "y": 863
+                },
+                "8": null,
+                "9": {
+                    "x": 228,
+                    "y": 902
+                },
+                "10": null,
+                "11": {
+                    "x": 263,
+                    "y": 874
+                },
+                "12": null,
+                "13": {
+                    "x": 265,
+                    "y": 906
+                },
+                "14": {
+                    "x": 255,
+                    "y": 818
+                },
+                "15": {
+                    "x": 278,
+                    "y": 787
+                }
+            },
+            "bounding_box": {
+                "x": 92,
+                "y": 765,
+                "width": 204,
+                "height": 179
+            }
+        },
+        {
+            "frame_number": 516,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/ae00a1ee-f887-485d-b490-f258bf596798.jpg",
+            "timestamp": 17200,
+            "keypoints": {
+                "1": {
+                    "x": 116,
+                    "y": 874
+                },
+                "2": {
+                    "x": 113,
+                    "y": 851
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 158,
+                    "y": 817
+                },
+                "6": null,
+                "7": {
+                    "x": 198,
+                    "y": 857
+                },
+                "8": null,
+                "9": {
+                    "x": 219,
+                    "y": 895
+                },
+                "10": null,
+                "11": {
+                    "x": 254,
+                    "y": 873
+                },
+                "12": null,
+                "13": {
+                    "x": 262,
+                    "y": 907
+                },
+                "14": {
+                    "x": 244,
+                    "y": 826
+                },
+                "15": {
+                    "x": 245,
+                    "y": 784
+                }
+            },
+            "bounding_box": {
+                "x": 86,
+                "y": 774,
+                "width": 184,
+                "height": 168
+            }
+        },
+        {
+            "frame_number": 522,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/f16228d3-7e24-460f-86d7-6fe7901a9949.jpg",
+            "timestamp": 17400,
+            "keypoints": {
+                "1": {
+                    "x": 111,
+                    "y": 858
+                },
+                "2": {
+                    "x": 106,
+                    "y": 839
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 165,
+                    "y": 800
+                },
+                "6": null,
+                "7": {
+                    "x": 193,
+                    "y": 847
+                },
+                "8": null,
+                "9": {
+                    "x": 219,
+                    "y": 880
+                },
+                "10": null,
+                "11": {
+                    "x": 251,
+                    "y": 867
+                },
+                "12": null,
+                "13": {
+                    "x": 259,
+                    "y": 896
+                },
+                "14": {
+                    "x": 260,
+                    "y": 818
+                },
+                "15": {
+                    "x": 234,
+                    "y": 772
+                }
+            },
+            "bounding_box": {
+                "x": 86,
+                "y": 763,
+                "width": 203,
+                "height": 164
+            }
+        },
+        {
+            "frame_number": 528,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/a5aadde5-6a3a-4ca2-8b17-4835101794cd.jpg",
+            "timestamp": 17600,
+            "keypoints": {
+                "1": {
+                    "x": 107,
+                    "y": 845
+                },
+                "2": {
+                    "x": 100,
+                    "y": 822
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 175,
+                    "y": 795
+                },
+                "6": null,
+                "7": {
+                    "x": 187,
+                    "y": 830
+                },
+                "8": null,
+                "9": {
+                    "x": 217,
+                    "y": 844
+                },
+                "10": null,
+                "11": {
+                    "x": 247,
+                    "y": 850
+                },
+                "12": null,
+                "13": {
+                    "x": 259,
+                    "y": 881
+                },
+                "14": {
+                    "x": 244,
+                    "y": 791
+                },
+                "15": {
+                    "x": 223,
+                    "y": 757
+                }
+            },
+            "bounding_box": {
+                "x": 94,
+                "y": 748,
+                "width": 185,
+                "height": 169
+            }
+        },
+        {
+            "frame_number": 534,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/d8bf0fd4-6bc8-4243-9ca0-40f1b69fdb27.jpg",
+            "timestamp": 17800,
+            "keypoints": {
+                "1": {
+                    "x": 119,
+                    "y": 828
+                },
+                "2": {
+                    "x": 124,
+                    "y": 803
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 183,
+                    "y": 795
+                },
+                "6": null,
+                "7": {
+                    "x": 207,
+                    "y": 844
+                },
+                "8": null,
+                "9": {
+                    "x": 228,
+                    "y": 853
+                },
+                "10": null,
+                "11": {
+                    "x": 253,
+                    "y": 857
+                },
+                "12": null,
+                "13": {
+                    "x": 263,
+                    "y": 880
+                },
+                "14": {
+                    "x": 250,
+                    "y": 793
+                },
+                "15": {
+                    "x": 227,
+                    "y": 762
+                }
+            },
+            "bounding_box": {
+                "x": 112,
+                "y": 748,
+                "width": 167,
+                "height": 169
+            }
+        },
+        {
+            "frame_number": 540,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/5d06583c-b45f-4bc1-9d9b-f91281571366.jpg",
+            "timestamp": 18000,
+            "keypoints": {
+                "1": {
+                    "x": 111,
+                    "y": 798
+                },
+                "2": {
+                    "x": 118,
+                    "y": 779
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 178,
+                    "y": 770
+                },
+                "6": {
+                    "x": 158,
+                    "y": 830
+                },
+                "7": {
+                    "x": 204,
+                    "y": 816
+                },
+                "8": {
+                    "x": 165,
+                    "y": 849
+                },
+                "9": {
+                    "x": 237,
+                    "y": 838
+                },
+                "10": null,
+                "11": {
+                    "x": 248,
+                    "y": 828
+                },
+                "12": null,
+                "13": null,
+                "14": {
+                    "x": 222,
+                    "y": 753
+                },
+                "15": {
+                    "x": 253,
+                    "y": 773
+                }
+            },
+            "bounding_box": {
+                "x": 105,
+                "y": 729,
+                "width": 174,
+                "height": 155
+            }
+        },
+        {
+            "frame_number": 546,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/dd528f64-7bf2-4263-aa31-00329ac671a8.jpg",
+            "timestamp": 18200,
+            "keypoints": {
+                "1": {
+                    "x": 107,
+                    "y": 828
+                },
+                "2": {
+                    "x": 105,
+                    "y": 810
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 166,
+                    "y": 789
+                },
+                "6": null,
+                "7": {
+                    "x": 182,
+                    "y": 836
+                },
+                "8": {
+                    "x": 169,
+                    "y": 872
+                },
+                "9": {
+                    "x": 177,
+                    "y": 860
+                },
+                "10": null,
+                "11": {
+                    "x": 258,
+                    "y": 844
+                },
+                "12": null,
+                "13": {
+                    "x": 264,
+                    "y": 873
+                },
+                "14": {
+                    "x": 230,
+                    "y": 776
+                },
+                "15": {
+                    "x": 196,
+                    "y": 761
+                }
+            },
+            "bounding_box": {
+                "x": 92,
+                "y": 747,
+                "width": 187,
+                "height": 158
+            }
+        },
+        {
+            "frame_number": 552,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/f3e9b6df-720a-4fec-8866-0c40b30aa343.jpg",
+            "timestamp": 18400,
+            "keypoints": {
+                "1": {
+                    "x": 37,
+                    "y": 833
+                },
+                "2": {
+                    "x": 45,
+                    "y": 803
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 128,
+                    "y": 788
+                },
+                "6": null,
+                "7": {
+                    "x": 135,
+                    "y": 836
+                },
+                "8": null,
+                "9": {
+                    "x": 140,
+                    "y": 883
+                },
+                "10": null,
+                "11": {
+                    "x": 232,
+                    "y": 812
+                },
+                "12": null,
+                "13": {
+                    "x": 254,
+                    "y": 844
+                },
+                "14": {
+                    "x": 209,
+                    "y": 764
+                },
+                "15": {
+                    "x": 165,
+                    "y": 742
+                }
+            },
+            "bounding_box": {
+                "x": 32,
+                "y": 718,
+                "width": 247,
+                "height": 197
+            }
+        },
+        {
+            "frame_number": 558,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/261b0af2-c067-4552-a2b6-9b8e0b6eb7e6.jpg",
+            "timestamp": 18600,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 78,
+                    "y": 805
+                },
+                "6": null,
+                "7": {
+                    "x": 81,
+                    "y": 846
+                },
+                "8": {
+                    "x": 63,
+                    "y": 898
+                },
+                "9": {
+                    "x": 117,
+                    "y": 900
+                },
+                "10": {
+                    "x": 153,
+                    "y": 847
+                },
+                "11": {
+                    "x": 180,
+                    "y": 817
+                },
+                "12": null,
+                "13": {
+                    "x": 199,
+                    "y": 822
+                },
+                "14": {
+                    "x": 171,
+                    "y": 774
+                },
+                "15": {
+                    "x": 112,
+                    "y": 750
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 727,
+                "width": 206,
+                "height": 203
+            }
+        },
+        {
+            "frame_number": 564,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/93030351-ee36-4a48-a9f7-9b7f2152de67.jpg",
+            "timestamp": 18800,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 19,
+                    "y": 804
+                },
+                "6": null,
+                "7": {
+                    "x": 17,
+                    "y": 873
+                },
+                "8": {
+                    "x": 49,
+                    "y": 894
+                },
+                "9": {
+                    "x": 15,
+                    "y": 909
+                },
+                "10": {
+                    "x": 119,
+                    "y": 845
+                },
+                "11": {
+                    "x": 148,
+                    "y": 842
+                },
+                "12": {
+                    "x": 137,
+                    "y": 860
+                },
+                "13": {
+                    "x": 161,
+                    "y": 863
+                },
+                "14": {
+                    "x": 131,
+                    "y": 780
+                },
+                "15": {
+                    "x": 97,
+                    "y": 749
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 727,
+                "width": 172,
+                "height": 203
+            }
+        },
+        {
+            "frame_number": 570,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/a2766db5-1762-4503-8fe9-4c87666e2353.jpg",
+            "timestamp": 19000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": {
+                    "x": 10,
+                    "y": 913
+                },
+                "10": {
+                    "x": 88,
+                    "y": 878
+                },
+                "11": {
+                    "x": 107,
+                    "y": 878
+                },
+                "12": {
+                    "x": 98,
+                    "y": 899
+                },
+                "13": {
+                    "x": 142,
+                    "y": 873
+                },
+                "14": {
+                    "x": 111,
+                    "y": 814
+                },
+                "15": {
+                    "x": 54,
+                    "y": 776
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 760,
+                "width": 158,
+                "height": 179
+            }
+        },
+        {
+            "frame_number": 576,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/98b54dfd-4bb6-4571-9373-c18bcad7c0f2.jpg",
+            "timestamp": 19200,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": {
+                    "x": 49,
+                    "y": 902
+                },
+                "12": {
+                    "x": 89,
+                    "y": 896
+                },
+                "13": {
+                    "x": 60,
+                    "y": 933
+                },
+                "14": {
+                    "x": 85,
+                    "y": 829
+                },
+                "15": {
+                    "x": 36,
+                    "y": 776
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 764,
+                "width": 97,
+                "height": 190
+            }
+        },
+        {
+            "frame_number": 582,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/d607c911-b789-4528-b550-9a68d1b31e33.jpg",
+            "timestamp": 19400,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": {
+                    "x": 24,
+                    "y": 905
+                },
+                "12": {
+                    "x": 22,
+                    "y": 927
+                },
+                "13": {
+                    "x": 41,
+                    "y": 934
+                },
+                "14": {
+                    "x": 48,
+                    "y": 829
+                },
+                "15": {
+                    "x": 9,
+                    "y": 782
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 764,
+                "width": 60,
+                "height": 195
+            }
+        },
+        {
+            "frame_number": 588,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/b14d2a7f-bd79-452a-83fc-179cf29b05f4.jpg",
+            "timestamp": 19600,
+            "keypoints": {
+                "1": {
+                    "x": 52,
+                    "y": 818
+                },
+                "2": {
+                    "x": 48,
+                    "y": 798
+                },
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": {
+                    "x": 36,
+                    "y": 915
+                },
+                "13": {
+                    "x": 10,
+                    "y": 932
+                },
+                "14": {
+                    "x": 17,
+                    "y": 842
+                },
+                "15": {
+                    "x": 47,
+                    "y": 863
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 777,
+                "width": 60,
+                "height": 175
+            }
+        },
+        {
+            "frame_number": 594,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/5a4ec2de-078f-40ea-9035-3323779ba1df.jpg",
+            "timestamp": 19800,
+            "keypoints": {
+                "1": {
+                    "x": 137,
+                    "y": 841
+                },
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 68,
+                    "y": 801
+                },
+                "6": {
+                    "x": 69,
+                    "y": 847
+                },
+                "7": null,
+                "8": {
+                    "x": 79,
+                    "y": 879
+                },
+                "9": null,
+                "10": {
+                    "x": 35,
+                    "y": 900
+                },
+                "11": null,
+                "12": {
+                    "x": 30,
+                    "y": 920
+                },
+                "13": null,
+                "14": {
+                    "x": 19,
+                    "y": 851
+                },
+                "15": {
+                    "x": 22,
+                    "y": 822
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 792,
+                "width": 141,
+                "height": 154
+            }
+        },
+        {
+            "frame_number": 600,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/9a97ab9d-d5fa-4740-8e5a-5610c381750c.jpg",
+            "timestamp": 20000,
+            "keypoints": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 157,
+                    "y": 815
+                },
+                "6": {
+                    "x": 135,
+                    "y": 853
+                },
+                "7": null,
+                "8": {
+                    "x": 127,
+                    "y": 894
+                },
+                "9": null,
+                "10": {
+                    "x": 41,
+                    "y": 875
+                },
+                "11": null,
+                "12": {
+                    "x": 7,
+                    "y": 909
+                },
+                "13": null,
+                "14": {
+                    "x": 10,
+                    "y": 820
+                },
+                "15": {
+                    "x": 57,
+                    "y": 825
+                }
+            },
+            "bounding_box": {
+                "x": 1,
+                "y": 787,
+                "width": 219,
+                "height": 146
+            }
+        },
+        {
+            "frame_number": 606,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/d482b70e-d3d6-41d9-b85c-48d7a459b84e.jpg",
+            "timestamp": 20200,
+            "keypoints": {
+                "1": {
+                    "x": 289,
+                    "y": 832
+                },
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 218,
+                    "y": 795
+                },
+                "6": {
+                    "x": 200,
+                    "y": 838
+                },
+                "7": null,
+                "8": {
+                    "x": 201,
+                    "y": 875
+                },
+                "9": null,
+                "10": {
+                    "x": 94,
+                    "y": 863
+                },
+                "11": {
+                    "x": 56,
+                    "y": 849
+                },
+                "12": {
+                    "x": 80,
+                    "y": 891
+                },
+                "13": {
+                    "x": 32,
+                    "y": 879
+                },
+                "14": {
+                    "x": 57,
+                    "y": 806
+                },
+                "15": {
+                    "x": 99,
+                    "y": 774
+                }
+            },
+            "bounding_box": {
+                "x": 24,
+                "y": 762,
+                "width": 268,
+                "height": 154
+            }
+        },
+        {
+            "frame_number": 612,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/a34ea0de-0467-4495-ac50-5c276cfe9218.jpg",
+            "timestamp": 20400,
+            "keypoints": {
+                "1": {
+                    "x": 338,
+                    "y": 824
+                },
+                "2": {
+                    "x": 318,
+                    "y": 805
+                },
+                "3": null,
+                "4": null,
+                "5": {
+                    "x": 253,
+                    "y": 805
+                },
+                "6": {
+                    "x": 248,
+                    "y": 870
+                },
+                "7": null,
+                "8": {
+                    "x": 254,
+                    "y": 905
+                },
+                "9": null,
+                "10": {
+                    "x": 119,
+                    "y": 871
+                },
+                "11": {
+                    "x": 156,
+                    "y": 868
+                },
+                "12": {
+                    "x": 89,
+                    "y": 891
+                },
+                "13": {
+                    "x": 155,
+                    "y": 892
+                },
+                "14": {
+                    "x": 118,
+                    "y": 806
+                },
+                "15": {
+                    "x": 114,
+                    "y": 754
+                }
+            },
+            "bounding_box": {
+                "x": 80,
+                "y": 747,
+                "width": 261,
+                "height": 179
+            }
+        },
+        {
+            "frame_number": 618,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/218b9445-0d40-4e1b-a18d-ab0e33a18f5b.jpg",
+            "timestamp": 20600,
+            "keypoints": {
+                "1": {
+                    "x": 375,
+                    "y": 808
+                },
+                "2": {
+                    "x": 362,
+                    "y": 791
+                },
+                "3": {
+                    "x": 350,
+                    "y": 821
+                },
+                "4": null,
+                "5": {
+                    "x": 295,
+                    "y": 802
+                },
+                "6": {
+                    "x": 272,
+                    "y": 860
+                },
+                "7": null,
+                "8": {
+                    "x": 282,
+                    "y": 896
+                },
+                "9": {
+                    "x": 314,
+                    "y": 894
+                },
+                "10": {
+                    "x": 193,
+                    "y": 863
+                },
+                "11": {
+                    "x": 163,
+                    "y": 859
+                },
+                "12": {
+                    "x": 187,
+                    "y": 904
+                },
+                "13": {
+                    "x": 158,
+                    "y": 880
+                },
+                "14": {
+                    "x": 186,
+                    "y": 789
+                },
+                "15": {
+                    "x": 152,
+                    "y": 772
+                }
+            },
+            "bounding_box": {
+                "x": 143,
+                "y": 747,
+                "width": 235,
+                "height": 179
+            }
+        },
+        {
+            "frame_number": 624,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/f1aa46e2-085f-41f8-9b62-0195c95511ae.jpg",
+            "timestamp": 20800,
+            "keypoints": {
+                "1": {
+                    "x": 395,
+                    "y": 800
+                },
+                "2": {
+                    "x": 380,
+                    "y": 785
+                },
+                "3": {
+                    "x": 369,
+                    "y": 817
+                },
+                "4": null,
+                "5": {
+                    "x": 320,
+                    "y": 802
+                },
+                "6": {
+                    "x": 327,
+                    "y": 862
+                },
+                "7": null,
+                "8": {
+                    "x": 339,
+                    "y": 903
+                },
+                "9": null,
+                "10": {
+                    "x": 214,
+                    "y": 861
+                },
+                "11": null,
+                "12": {
+                    "x": 194,
+                    "y": 886
+                },
+                "13": null,
+                "14": {
+                    "x": 205,
+                    "y": 788
+                },
+                "15": {
+                    "x": 257,
+                    "y": 787
+                }
+            },
+            "bounding_box": {
+                "x": 184,
+                "y": 735,
+                "width": 218,
+                "height": 198
+            }
+        },
+        {
+            "frame_number": 630,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/1f0d50ba-d2b8-4c03-9573-a70f16c731bf.jpg",
+            "timestamp": 21000,
+            "keypoints": {
+                "1": {
+                    "x": 391,
+                    "y": 815
+                },
+                "2": {
+                    "x": 386,
+                    "y": 793
+                },
+                "3": {
+                    "x": 371,
+                    "y": 822
+                },
+                "4": null,
+                "5": {
+                    "x": 356,
+                    "y": 816
+                },
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 242,
+                    "y": 866
+                },
+                "11": {
+                    "x": 278,
+                    "y": 865
+                },
+                "12": {
+                    "x": 215,
+                    "y": 884
+                },
+                "13": {
+                    "x": 272,
+                    "y": 892
+                },
+                "14": {
+                    "x": 241,
+                    "y": 798
+                },
+                "15": {
+                    "x": 297,
+                    "y": 797
+                }
+            },
+            "bounding_box": {
+                "x": 206,
+                "y": 765,
+                "width": 204,
+                "height": 151
+            }
+        },
+        {
+            "frame_number": 636,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/e788c8d2-7afd-4b44-a2f8-e5a2604718c9.jpg",
+            "timestamp": 21200,
+            "keypoints": {
+                "1": {
+                    "x": 391,
+                    "y": 851
+                },
+                "2": {
+                    "x": 391,
+                    "y": 822
+                },
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 285,
+                    "y": 867
+                },
+                "11": null,
+                "12": {
+                    "x": 241,
+                    "y": 879
+                },
+                "13": null,
+                "14": {
+                    "x": 262,
+                    "y": 809
+                },
+                "15": {
+                    "x": 318,
+                    "y": 790
+                }
+            },
+            "bounding_box": {
+                "x": 228,
+                "y": 776,
+                "width": 197,
+                "height": 140
+            }
+        },
+        {
+            "frame_number": 642,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/5b3174d3-24b5-438a-9088-92385f1d4842.jpg",
+            "timestamp": 21400,
+            "keypoints": {
+                "1": {
+                    "x": 367,
+                    "y": 874
+                },
+                "2": {
+                    "x": 363,
+                    "y": 848
+                },
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 285,
+                    "y": 867
+                },
+                "11": null,
+                "12": {
+                    "x": 268,
+                    "y": 891
+                },
+                "13": null,
+                "14": {
+                    "x": 272,
+                    "y": 810
+                },
+                "15": {
+                    "x": 283,
+                    "y": 829
+                }
+            },
+            "bounding_box": {
+                "x": 251,
+                "y": 764,
+                "width": 151,
+                "height": 152
+            }
+        },
+        {
+            "frame_number": 648,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/9a91948a-3db0-47fd-a9f3-8e02f6d86ba2.jpg",
+            "timestamp": 21600,
+            "keypoints": {
+                "1": {
+                    "x": 354,
+                    "y": 844
+                },
+                "2": {
+                    "x": 351,
+                    "y": 822
+                },
+                "3": {
+                    "x": 341,
+                    "y": 852
+                },
+                "4": {
+                    "x": 355,
+                    "y": 856
+                },
+                "5": null,
+                "6": null,
+                "7": {
+                    "x": 396,
+                    "y": 877
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 287,
+                    "y": 870
+                },
+                "11": null,
+                "12": {
+                    "x": 277,
+                    "y": 896
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 304,
+                    "y": 817
+                }
+            },
+            "bounding_box": {
+                "x": 267,
+                "y": 764,
+                "width": 134,
+                "height": 159
+            }
+        },
+        {
+            "frame_number": 654,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/8da0ce00-ac26-418c-aaac-d06ed6e57c46.jpg",
+            "timestamp": 21800,
+            "keypoints": {
+                "1": {
+                    "x": 346,
+                    "y": 811
+                },
+                "2": {
+                    "x": 344,
+                    "y": 787
+                },
+                "3": {
+                    "x": 334,
+                    "y": 826
+                },
+                "4": {
+                    "x": 347,
+                    "y": 825
+                },
+                "5": null,
+                "6": {
+                    "x": 322,
+                    "y": 864
+                },
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 292,
+                    "y": 860
+                },
+                "11": null,
+                "12": {
+                    "x": 287,
+                    "y": 879
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 333,
+                    "y": 775
+                }
+            },
+            "bounding_box": {
+                "x": 279,
+                "y": 767,
+                "width": 102,
+                "height": 128
+            }
+        },
+        {
+            "frame_number": 660,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/177a2058-0e71-4366-bc59-32298878ac02.jpg",
+            "timestamp": 22000,
+            "keypoints": {
+                "1": {
+                    "x": 346,
+                    "y": 811
+                },
+                "2": {
+                    "x": 344,
+                    "y": 787
+                },
+                "3": {
+                    "x": 337,
+                    "y": 823
+                },
+                "4": {
+                    "x": 349,
+                    "y": 825
+                },
+                "5": null,
+                "6": {
+                    "x": 323,
+                    "y": 860
+                },
+                "7": {
+                    "x": 389,
+                    "y": 855
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 292,
+                    "y": 860
+                },
+                "11": null,
+                "12": {
+                    "x": 294,
+                    "y": 878
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 335,
+                    "y": 775
+                }
+            },
+            "bounding_box": {
+                "x": 279,
+                "y": 767,
+                "width": 121,
+                "height": 128
+            }
+        },
+        {
+            "frame_number": 666,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/756071cd-8253-48ae-8837-914fb71baba7.jpg",
+            "timestamp": 22200,
+            "keypoints": {
+                "1": {
+                    "x": 346,
+                    "y": 811
+                },
+                "2": {
+                    "x": 344,
+                    "y": 787
+                },
+                "3": {
+                    "x": 337,
+                    "y": 823
+                },
+                "4": {
+                    "x": 350,
+                    "y": 822
+                },
+                "5": null,
+                "6": {
+                    "x": 324,
+                    "y": 866
+                },
+                "7": {
+                    "x": 387,
+                    "y": 864
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 292,
+                    "y": 860
+                },
+                "11": null,
+                "12": {
+                    "x": 288,
+                    "y": 877
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 333,
+                    "y": 772
+                }
+            },
+            "bounding_box": {
+                "x": 279,
+                "y": 767,
+                "width": 118,
+                "height": 128
+            }
+        },
+        {
+            "frame_number": 672,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/c5dbe4ed-dd88-4ab1-8621-4008d4d93ccf.jpg",
+            "timestamp": 22400,
+            "keypoints": {
+                "1": {
+                    "x": 344,
+                    "y": 800
+                },
+                "2": {
+                    "x": 340,
+                    "y": 781
+                },
+                "3": {
+                    "x": 335,
+                    "y": 815
+                },
+                "4": {
+                    "x": 349,
+                    "y": 812
+                },
+                "5": null,
+                "6": {
+                    "x": 319,
+                    "y": 860
+                },
+                "7": {
+                    "x": 385,
+                    "y": 856
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 290,
+                    "y": 852
+                },
+                "11": null,
+                "12": {
+                    "x": 283,
+                    "y": 875
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 329,
+                    "y": 766
+                }
+            },
+            "bounding_box": {
+                "x": 278,
+                "y": 758,
+                "width": 116,
+                "height": 137
+            }
+        },
+        {
+            "frame_number": 678,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/d8cd1fe7-c78c-4e8c-b073-bd0c6320e3e7.jpg",
+            "timestamp": 22600,
+            "keypoints": {
+                "1": {
+                    "x": 344,
+                    "y": 800
+                },
+                "2": {
+                    "x": 340,
+                    "y": 781
+                },
+                "3": {
+                    "x": 335,
+                    "y": 815
+                },
+                "4": {
+                    "x": 349,
+                    "y": 812
+                },
+                "5": null,
+                "6": {
+                    "x": 319,
+                    "y": 860
+                },
+                "7": {
+                    "x": 385,
+                    "y": 856
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 290,
+                    "y": 852
+                },
+                "11": null,
+                "12": {
+                    "x": 283,
+                    "y": 875
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 325,
+                    "y": 765
+                }
+            },
+            "bounding_box": {
+                "x": 279,
+                "y": 762,
+                "width": 113,
+                "height": 133
+            }
+        },
+        {
+            "frame_number": 684,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/c0cd92bf-f9f5-4244-a767-feb8cd3b11d8.jpg",
+            "timestamp": 22800,
+            "keypoints": {
+                "1": {
+                    "x": 344,
+                    "y": 800
+                },
+                "2": {
+                    "x": 340,
+                    "y": 781
+                },
+                "3": {
+                    "x": 335,
+                    "y": 815
+                },
+                "4": {
+                    "x": 349,
+                    "y": 812
+                },
+                "5": null,
+                "6": {
+                    "x": 319,
+                    "y": 860
+                },
+                "7": {
+                    "x": 385,
+                    "y": 856
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 284,
+                    "y": 849
+                },
+                "11": null,
+                "12": {
+                    "x": 283,
+                    "y": 875
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 322,
+                    "y": 759
+                }
+            },
+            "bounding_box": {
+                "x": 277,
+                "y": 756,
+                "width": 112,
+                "height": 139
+            }
+        },
+        {
+            "frame_number": 690,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/0fae9fbf-1acb-4368-a338-26b2dd211c6f.jpg",
+            "timestamp": 23000,
+            "keypoints": {
+                "1": {
+                    "x": 347,
+                    "y": 807
+                },
+                "2": {
+                    "x": 340,
+                    "y": 787
+                },
+                "3": {
+                    "x": 337,
+                    "y": 823
+                },
+                "4": {
+                    "x": 348,
+                    "y": 820
+                },
+                "5": null,
+                "6": {
+                    "x": 322,
+                    "y": 877
+                },
+                "7": {
+                    "x": 382,
+                    "y": 876
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 289,
+                    "y": 854
+                },
+                "11": null,
+                "12": {
+                    "x": 287,
+                    "y": 875
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 329,
+                    "y": 770
+                }
+            },
+            "bounding_box": {
+                "x": 279,
+                "y": 762,
+                "width": 113,
+                "height": 133
+            }
+        },
+        {
+            "frame_number": 696,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/5596de7f-96c7-44bb-b995-7721e1daacd4.jpg",
+            "timestamp": 23200,
+            "keypoints": {
+                "1": {
+                    "x": 356,
+                    "y": 817
+                },
+                "2": {
+                    "x": 354,
+                    "y": 795
+                },
+                "3": {
+                    "x": 344,
+                    "y": 827
+                },
+                "4": {
+                    "x": 358,
+                    "y": 829
+                },
+                "5": null,
+                "6": {
+                    "x": 328,
+                    "y": 878
+                },
+                "7": {
+                    "x": 394,
+                    "y": 879
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 301,
+                    "y": 861
+                },
+                "11": null,
+                "12": {
+                    "x": 295,
+                    "y": 880
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 341,
+                    "y": 780
+                }
+            },
+            "bounding_box": {
+                "x": 287,
+                "y": 773,
+                "width": 114,
+                "height": 122
+            }
+        },
+        {
+            "frame_number": 702,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/46f8c250-0033-4fed-b6c2-731a24441f51.jpg",
+            "timestamp": 23400,
+            "keypoints": {
+                "1": {
+                    "x": 344,
+                    "y": 797
+                },
+                "2": {
+                    "x": 341,
+                    "y": 776
+                },
+                "3": {
+                    "x": 335,
+                    "y": 809
+                },
+                "4": {
+                    "x": 346,
+                    "y": 810
+                },
+                "5": null,
+                "6": {
+                    "x": 318,
+                    "y": 858
+                },
+                "7": {
+                    "x": 383,
+                    "y": 858
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 285,
+                    "y": 846
+                },
+                "11": null,
+                "12": {
+                    "x": 283,
+                    "y": 863
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 317,
+                    "y": 762
+                }
+            },
+            "bounding_box": {
+                "x": 275,
+                "y": 754,
+                "width": 115,
+                "height": 141
+            }
+        },
+        {
+            "frame_number": 708,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/74bdb6b7-e5ee-489e-8ab3-485a014f1669.jpg",
+            "timestamp": 23600,
+            "keypoints": {
+                "1": {
+                    "x": 327,
+                    "y": 806
+                },
+                "2": {
+                    "x": 323,
+                    "y": 786
+                },
+                "3": {
+                    "x": 312,
+                    "y": 821
+                },
+                "4": {
+                    "x": 326,
+                    "y": 820
+                },
+                "5": null,
+                "6": null,
+                "7": {
+                    "x": 364,
+                    "y": 869
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 265,
+                    "y": 850
+                },
+                "11": null,
+                "12": {
+                    "x": 262,
+                    "y": 871
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 308,
+                    "y": 769
+                }
+            },
+            "bounding_box": {
+                "x": 255,
+                "y": 764,
+                "width": 116,
+                "height": 131
+            }
+        },
+        {
+            "frame_number": 714,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/bda30e47-9271-422e-abb1-8d4f8c910311.jpg",
+            "timestamp": 23800,
+            "keypoints": {
+                "1": {
+                    "x": 320,
+                    "y": 822
+                },
+                "2": {
+                    "x": 318,
+                    "y": 801
+                },
+                "3": {
+                    "x": 310,
+                    "y": 835
+                },
+                "4": {
+                    "x": 323,
+                    "y": 834
+                },
+                "5": null,
+                "6": null,
+                "7": {
+                    "x": 360,
+                    "y": 884
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 265,
+                    "y": 850
+                },
+                "11": null,
+                "12": {
+                    "x": 262,
+                    "y": 871
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 302,
+                    "y": 784
+                }
+            },
+            "bounding_box": {
+                "x": 250,
+                "y": 776,
+                "width": 116,
+                "height": 129
+            }
+        },
+        {
+            "frame_number": 720,
+            "frame_url": "https://dashboard.datamaker.io/media/task/raw_data/377739a3-9e35-4b73-9c02-2ca678f05da5.jpg",
+            "timestamp": 24000,
+            "keypoints": {
+                "1": {
+                    "x": 302,
+                    "y": 836
+                },
+                "2": {
+                    "x": 298,
+                    "y": 813
+                },
+                "3": {
+                    "x": 288,
+                    "y": 849
+                },
+                "4": {
+                    "x": 302,
+                    "y": 851
+                },
+                "5": null,
+                "6": null,
+                "7": {
+                    "x": 342,
+                    "y": 899
+                },
+                "8": null,
+                "9": null,
+                "10": {
+                    "x": 242,
+                    "y": 880
+                },
+                "11": null,
+                "12": {
+                    "x": 241,
+                    "y": 898
+                },
+                "13": null,
+                "14": null,
+                "15": {
+                    "x": 282,
+                    "y": 796
+                }
+            },
+            "bounding_box": {
+                "x": 233,
+                "y": 788,
+                "width": 116,
+                "height": 134
+            }
+        }
+    ]
+}
