@@ -18,10 +18,16 @@ def _int64_feature(value):
 
 
 # JSON 파일이 저장된 디렉토리의 경로
+<<<<<<< HEAD
+json_dir = (
+    "C:\\Users\\JIEUN\\Desktop\\202307_FP_Project_jieun\\Data\\Training\\DOG\\MOUNTING"
+)
+=======
 json_dir = "C:\\Users\\JIEUN\\Desktop\\202307_FP_Project_jieun\\Data\\Training\\DOG\\LABEL_MOUNTING\\MOUNTING"
+>>>>>>> parent of 1937c38 (commit)
 
 # 이미지와 레이블을 저장할 리스트
-images, labels = [], []
+images, labels, bounding_boxes = [], [], []
 
 # JSON 파일을 순회하며 데이터를 수집
 for root, dirs, files in os.walk(json_dir):
@@ -35,6 +41,13 @@ for root, dirs, files in os.walk(json_dir):
             for annotation in data["annotations"]:
                 emotion = data["metadata"]["inspect"]["emotion"]  # 감정 레이블 추출
 
+                # 객체의 좌표와 크기 정보 추출
+                bounding_box = annotation["bounding_box"]
+                x = bounding_box["x"]
+                y = bounding_box["y"]
+                width = bounding_box["width"]
+                height = bounding_box["height"]
+
                 # 이미지 URL이 주석에 포함되어 있는 경우
                 if "frame_url" in annotation:
                     # 이미지 URL 가져오기
@@ -45,13 +58,17 @@ for root, dirs, files in os.walk(json_dir):
                         resp = urllib.request.urlopen(img_url)
                         img = np.array(Image.open(BytesIO(resp.read())))
 
-                        # 이미지 크기를 재조정
-                        img = cv2.resize(img, (224, 224))
-                        # 픽셀 값을 [0, 1] 범위로 정규화
-                        img = img / 255.0
+                        # 객체 영역만 잘라내기
+                        img_crop = img[y : y + height, x : x + width]
 
-                        images.append(img)
+                        # 이미지 크기를 재조정
+                        img_crop = cv2.resize(img_crop, (224, 224))
+                        # 픽셀 값을 [0, 1] 범위로 정규화
+                        img_crop = img_crop / 255.0
+
+                        images.append(img_crop)
                         labels.append(emotion)
+                        bounding_boxes.append((x, y, width, height))
 
                     except Exception as e:
                         print(f"Error processing image from URL: {img_url}")
@@ -60,15 +77,23 @@ for root, dirs, files in os.walk(json_dir):
 # 리스트를 NumPy 배열로 변환
 images = np.array(images)
 labels = np.array(labels)
+bounding_boxes = np.array(bounding_boxes)
 
 # 전처리된 데이터를 저장할 디렉토리 생성
 save_dir = "Data/preprocessing"
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
 
+<<<<<<< HEAD
+# 전처리된 이미지, 레이블, 객체의 좌표와 크기를 NumPy 배열로 저장
+np.save(os.path.join(save_dir, "MOUNTING_processed_images.npy"), images)
+np.save(os.path.join(save_dir, "MOUNTING_labels.npy"), labels)
+np.save(os.path.join(save_dir, "MOUNTING_bounding_boxes.npy"), bounding_boxes)
+=======
 # 전처리된 이미지와 레이블을 NumPy 배열로 저장
 np.save(os.path.join(save_dir, "MOUNTING_processed_images.npy"), images)
 np.save(os.path.join(save_dir, "MOUNTING_labels.npy"), labels)
+>>>>>>> parent of 1937c38 (commit)
 
 # 전처리된 이미지를 TFRecord 파일로 저장
 tfrecord_file = os.path.join(save_dir, "MOUNTING_processed_images.tfrecords")
@@ -89,5 +114,5 @@ with tf.io.TFRecordWriter(tfrecord_file) as writer:
         writer.write(example_message.SerializeToString())
 
 # TFRecord 파일의 크기 출력
-file_size = os.path.getsize(tfrecord_file)
-print(f"TFRecord 파일 크기: {file_size} bytes")
+# file_size = os.path.getsize(tfrecord_file)
+# print(f"TFRecord 파일 크기: {file_size} bytes")
