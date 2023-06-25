@@ -80,10 +80,11 @@ save_dir = "Data/preprocessing"
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
 
-# 전처리된 이미지, 레이블, 객체의 좌표와 크기를 NumPy 배열로 저장
-np.save(os.path.join(save_dir, "MOUNTING_processed_images.npy"), images)
-np.save(os.path.join(save_dir, "MOUNTING_labels.npy"), labels)
-np.save(os.path.join(save_dir, "MOUNTING_bounding_boxes.npy"), bounding_boxes)
+# 전처리된 이미지, 레이블, 객체의 좌표와 크기를 딕셔너리로 묶기
+data = {"images": images, "labels": labels, "bounding_boxes": bounding_boxes}
+
+# 딕셔너리를 NumPy 배열로 저장
+np.save(os.path.join(save_dir, "MOUNTING_processed_data.npy"), data)
 
 # 전처리된 이미지를 TFRecord 파일로 저장
 tfrecord_file = os.path.join(save_dir, "MOUNTING_processed_images.tfrecords")
