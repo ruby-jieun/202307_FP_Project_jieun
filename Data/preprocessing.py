@@ -18,13 +18,9 @@ def _int64_feature(value):
 
 
 # JSON 파일이 저장된 디렉토리의 경로
-<<<<<<< HEAD
 json_dir = (
     "C:\\Users\\JIEUN\\Desktop\\202307_FP_Project_jieun\\Data\\Training\\DOG\\MOUNTING"
 )
-=======
-json_dir = "C:\\Users\\JIEUN\\Desktop\\202307_FP_Project_jieun\\Data\\Training\\DOG\\LABEL_MOUNTING\\MOUNTING"
->>>>>>> parent of 1937c38 (commit)
 
 # 이미지와 레이블을 저장할 리스트
 images, labels, bounding_boxes = [], [], []
@@ -84,16 +80,10 @@ save_dir = "Data/preprocessing"
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
 
-<<<<<<< HEAD
 # 전처리된 이미지, 레이블, 객체의 좌표와 크기를 NumPy 배열로 저장
 np.save(os.path.join(save_dir, "MOUNTING_processed_images.npy"), images)
 np.save(os.path.join(save_dir, "MOUNTING_labels.npy"), labels)
 np.save(os.path.join(save_dir, "MOUNTING_bounding_boxes.npy"), bounding_boxes)
-=======
-# 전처리된 이미지와 레이블을 NumPy 배열로 저장
-np.save(os.path.join(save_dir, "MOUNTING_processed_images.npy"), images)
-np.save(os.path.join(save_dir, "MOUNTING_labels.npy"), labels)
->>>>>>> parent of 1937c38 (commit)
 
 # 전처리된 이미지를 TFRecord 파일로 저장
 tfrecord_file = os.path.join(save_dir, "MOUNTING_processed_images.tfrecords")
